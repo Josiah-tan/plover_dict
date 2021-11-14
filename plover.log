@@ -430,3 +430,30 @@
 2021-11-14 12:51:26,622 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
 2021-11-14 12:51:27,247 [Dummy-1] INFO: loaded 6 dictionaries in 0.627s
 2021-11-14 15:08:06,379 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
+2021-11-14 17:40:24,589 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-14 17:40:24,604 [MainThread] INFO: 48 custom mappings(s)
+2021-11-14 17:40:48,059 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-14 17:40:48,069 [MainThread] INFO: 48 custom mappings(s)
+2021-11-14 17:40:48,899 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-11-14 17:40:48,903 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-14 17:40:49,170 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-14 17:40:49,181 [Dummy-1] INFO: XInput devices: 6, 8
+2021-11-14 17:40:49,182 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-11-14 17:40:49,182 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-11-14 17:40:49,184 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-11-14 17:40:49,751 [Dummy-1] INFO: loaded 3 dictionaries in 0.569s
+2021-11-14 17:42:20,531 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-14 17:42:20,543 [MainThread] INFO: 48 custom mappings(s)
+2021-11-14 17:42:58,662 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-14 17:42:58,672 [MainThread] INFO: 48 custom mappings(s)
+2021-11-14 17:44:06,905 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-14 17:44:06,916 [MainThread] INFO: 48 custom mappings(s)
+2021-11-14 17:44:07,802 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-11-14 17:44:07,802 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-14 17:44:08,023 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-14 17:44:08,038 [Dummy-1] INFO: XInput devices: 6, 8
+2021-11-14 17:44:08,038 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-11-14 17:44:08,049 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-11-14 17:44:08,049 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-11-14 17:44:08,135 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2021-11-14 17:44:08,660 [Dummy-1] INFO: loaded 4 dictionaries in 0.621s

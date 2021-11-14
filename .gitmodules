@@ -1,0 +1,3 @@
+[submodule "plover_phrasing"]
+	path = plover_phrasing
+	url = https://github.com/Jade-GG/plover_phrasing.git
