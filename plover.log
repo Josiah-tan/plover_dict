@@ -457,3 +457,7 @@
 2021-11-14 17:44:08,049 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
 2021-11-14 17:44:08,135 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
 2021-11-14 17:44:08,660 [Dummy-1] INFO: loaded 4 dictionaries in 0.621s
+2021-11-14 17:49:30,997 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-11-14 17:49:31,003 [Dummy-1] INFO: loaded 5 dictionaries in 0.007s
+2021-11-14 17:49:40,384 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
+2021-11-14 17:49:41,767 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
