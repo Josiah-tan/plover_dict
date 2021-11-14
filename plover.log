@@ -1,0 +1,432 @@
+2021-08-15 01:56:14,482 [MainThread] INFO: setting language to: en_US
+2021-08-15 01:56:15,362 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-08-15 01:56:15,363 [Dummy-1] INFO: loading system: English Stenotype
+2021-08-15 01:56:15,539 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-15 01:56:15,541 [Dummy-1] WARNING: the following registry key has been updated, you should reboot: HKEY_CURRENT_USER\Control Panel\Desktop\LowLevelHooksTimeout
+2021-08-15 01:56:15,905 [Dummy-1] INFO: recreating c:\users\josia\appdata\local\plover\plover\user.json from asset:plover:assets\user.json
+2021-08-15 01:56:15,908 [Dummy-1] INFO: recreating c:\users\josia\appdata\local\plover\plover\commands.json from asset:plover:assets\commands.json
+2021-08-15 01:56:15,918 [Dummy-1] INFO: recreating c:\users\josia\appdata\local\plover\plover\main.json from asset:plover:assets\main.json
+2021-08-15 01:56:15,926 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-08-15 01:56:15,927 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-08-15 01:56:15,927 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-08-15 01:56:16,497 [Dummy-1] INFO: loaded 3 dictionaries in 0.571s
+2021-08-16 23:32:03,712 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-16 23:32:04,847 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-17 18:45:53,069 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-17 18:45:54,219 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-17 23:00:35,685 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-17 23:00:36,919 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-17 23:56:35,918 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-17 23:56:36,179 [Dummy-1] INFO: loaded 3 dictionaries in 0.001s
+2021-08-18 10:09:55,562 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-18 10:09:57,040 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-18 14:55:56,038 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-18 14:55:56,454 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-18 14:57:54,601 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-18 14:57:54,906 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-18 15:03:36,670 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-18 15:03:36,976 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-18 16:37:01,859 [MainThread] INFO: setting language to: en_US
+2021-08-18 16:37:04,178 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-08-18 16:37:04,178 [Dummy-1] INFO: loading system: English Stenotype
+2021-08-18 16:37:04,573 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-18 16:37:05,242 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-08-18 16:37:05,243 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-08-18 16:37:05,244 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-08-18 16:37:07,163 [Dummy-1] INFO: loaded 3 dictionaries in 1.921s
+2021-08-18 16:38:45,093 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-18 16:38:46,009 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-18 19:57:48,083 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-18 19:57:48,401 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-18 21:18:22,214 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-18 21:18:22,465 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-18 22:09:11,556 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-18 22:09:11,797 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-19 14:21:44,580 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-19 14:21:45,993 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-19 14:23:28,999 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-19 14:23:29,220 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-19 14:23:30,951 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-19 14:34:38,025 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-19 14:34:38,248 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-19 14:36:17,788 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-19 14:36:18,005 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-20 12:42:03,119 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-20 12:42:04,408 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-20 12:43:07,321 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-20 12:43:07,609 [Dummy-1] INFO: loaded 3 dictionaries in 0.001s
+2021-08-20 12:45:00,885 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-20 12:45:01,125 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-20 12:46:19,911 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-20 12:46:20,154 [Dummy-1] INFO: loaded 3 dictionaries in 0.001s
+2021-08-20 13:52:19,716 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-20 13:52:21,732 [Dummy-1] INFO: loaded 3 dictionaries in 0.001s
+2021-08-20 13:52:23,777 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-20 13:52:25,587 [Dummy-1] INFO: loaded 3 dictionaries in 0.001s
+2021-08-20 17:12:59,187 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-20 17:13:00,307 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-20 17:15:24,898 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-20 17:15:26,003 [Dummy-1] INFO: loaded 3 dictionaries in 0.001s
+2021-08-21 23:05:02,180 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-21 23:05:03,702 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-21 23:08:49,498 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-21 23:08:49,812 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-23 11:19:09,242 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-23 11:19:11,823 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-23 12:35:51,415 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-23 12:35:51,842 [Dummy-1] INFO: loaded 3 dictionaries in 0.003s
+2021-08-26 21:05:32,668 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-26 21:05:34,531 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-26 21:07:46,082 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-26 21:07:46,478 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-27 00:50:25,791 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-08-27 00:50:25,795 [Dummy-1] INFO: loaded 4 dictionaries in 0.005s
+2021-08-27 00:53:17,690 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2021-08-27 00:53:24,222 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-08-27 00:53:24,233 [Dummy-1] INFO: loaded 4 dictionaries in 0.011s
+2021-08-29 22:25:49,113 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-29 22:25:50,444 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-08-29 22:26:53,941 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-29 22:26:54,198 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-08-31 00:01:51,740 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-31 00:01:53,068 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-08-31 00:03:01,227 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-31 00:03:01,515 [Dummy-1] INFO: loaded 4 dictionaries in 0.001s
+2021-08-31 00:30:58,577 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-31 00:30:58,925 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-08-31 00:37:06,247 [Dummy-1] INFO: setting machine: Keyboard
+2021-08-31 00:37:06,579 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-01 00:59:28,391 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-01 00:59:29,842 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-03 00:13:59,921 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-03 00:14:01,506 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-03 09:15:39,031 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-03 09:15:39,561 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-03 23:03:02,693 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-03 23:03:04,241 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-03 23:04:10,371 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-03 23:04:10,730 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-03 23:06:38,562 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-03 23:06:38,886 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-03 23:14:30,439 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-03 23:14:30,825 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-08 00:18:59,701 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-08 00:19:01,392 [Dummy-1] INFO: loaded 4 dictionaries in 0.002s
+2021-09-08 00:40:19,335 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-08 00:40:19,745 [Dummy-1] INFO: loaded 4 dictionaries in 0.003s
+2021-09-14 12:19:59,215 [MainThread] INFO: setting language to: en_US
+2021-09-14 12:20:00,377 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-09-14 12:20:00,377 [Dummy-1] INFO: loading system: English Stenotype
+2021-09-14 12:20:00,577 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-14 12:20:01,060 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-09-14 12:20:01,060 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-09-14 12:20:01,061 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-09-14 12:20:01,061 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-09-14 12:20:01,784 [Dummy-1] INFO: loaded 4 dictionaries in 0.724s
+2021-09-15 12:28:46,903 [MainThread] INFO: setting language to: en_US
+2021-09-15 12:28:47,997 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-09-15 12:28:47,998 [Dummy-1] INFO: loading system: English Stenotype
+2021-09-15 12:28:48,219 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-15 12:28:48,776 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-09-15 12:28:48,778 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-09-15 12:28:48,779 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-09-15 12:28:48,779 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-09-15 12:28:49,587 [Dummy-1] INFO: loaded 4 dictionaries in 0.811s
+2021-09-18 12:36:46,179 [MainThread] INFO: setting language to: en_US
+2021-09-18 12:36:46,703 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-09-18 12:36:46,703 [Dummy-1] INFO: loading system: English Stenotype
+2021-09-18 12:36:46,862 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-18 12:36:47,197 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-09-18 12:36:47,198 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-09-18 12:36:47,198 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-09-18 12:36:47,198 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-09-18 12:36:47,776 [Dummy-1] INFO: loaded 4 dictionaries in 0.579s
+2021-09-18 13:22:50,178 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-19 21:55:56,753 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-19 23:04:50,462 [MainThread] INFO: setting language to: en_US
+2021-09-19 23:04:51,570 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-09-19 23:04:51,570 [Dummy-1] INFO: loading system: English Stenotype
+2021-09-19 23:04:51,845 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-19 23:04:52,399 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-09-19 23:04:52,399 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-09-19 23:04:52,400 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-09-19 23:04:52,401 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-09-19 23:04:53,301 [Dummy-1] INFO: loaded 4 dictionaries in 0.902s
+2021-09-20 21:18:56,848 [MainThread] INFO: setting language to: en_US
+2021-09-20 21:18:57,664 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-09-20 21:18:57,665 [Dummy-1] INFO: loading system: English Stenotype
+2021-09-20 21:18:57,850 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-20 21:18:58,215 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-09-20 21:18:58,215 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-09-20 21:18:58,216 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-09-20 21:18:58,216 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-09-20 21:18:58,808 [Dummy-1] INFO: loaded 4 dictionaries in 0.593s
+2021-09-24 10:53:11,548 [MainThread] INFO: setting language to: en_US
+2021-09-24 10:53:12,678 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-09-24 10:53:12,678 [Dummy-1] INFO: loading system: English Stenotype
+2021-09-24 10:53:12,883 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-24 10:53:13,380 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-09-24 10:53:13,380 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-09-24 10:53:13,381 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-09-24 10:53:13,381 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-09-24 10:53:14,078 [Dummy-1] INFO: loaded 4 dictionaries in 0.698s
+2021-09-25 00:09:12,833 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-25 00:09:14,182 [Dummy-1] INFO: loaded 4 dictionaries in 0.001s
+2021-09-25 00:13:52,842 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-25 00:13:53,215 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-09-30 01:26:59,697 [ThreadPoolExecutor-35_0] INFO: error fetching https://www.wordtechnologies.com/images/treal/treal2a.gif: Not Found
+2021-09-30 01:30:11,836 [MainThread] INFO: setting language to: en_US
+2021-09-30 01:30:13,334 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-09-30 01:30:13,334 [Dummy-1] INFO: loading system: English Stenotype
+2021-09-30 01:30:13,566 [Dummy-1] INFO: setting machine: Keyboard
+2021-09-30 01:30:14,063 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-09-30 01:30:14,063 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-09-30 01:30:14,064 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-09-30 01:30:14,064 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-09-30 01:30:14,922 [Dummy-1] INFO: loaded 4 dictionaries in 0.859s
+2021-10-01 14:07:45,094 [MainThread] INFO: setting language to: en_US
+2021-10-01 14:07:48,949 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-10-01 14:07:48,950 [Dummy-1] INFO: loading system: English Stenotype
+2021-10-01 14:07:49,346 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-01 14:07:50,675 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-10-01 14:07:50,677 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-10-01 14:07:50,678 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-10-01 14:07:50,679 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-10-01 14:07:52,813 [Dummy-1] INFO: loaded 4 dictionaries in 2.138s
+2021-10-02 14:31:05,756 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-02 14:31:07,322 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-10-02 14:31:11,687 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-10-02 14:37:38,122 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-02 14:37:38,543 [Dummy-1] INFO: loaded 4 dictionaries in 0.000s
+2021-10-03 00:24:06,332 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-10-03 00:24:06,351 [Dummy-1] INFO: loaded 5 dictionaries in 0.020s
+2021-10-03 00:24:17,883 [Dummy-1] INFO: loaded 5 dictionaries in 0.001s
+2021-10-11 17:05:00,904 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-10-11 17:05:00,947 [Dummy-1] INFO: loaded 5 dictionaries in 0.061s
+2021-10-11 17:05:03,918 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
+2021-10-11 17:05:03,925 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
+2021-10-11 17:05:04,165 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
+2021-10-12 22:02:37,911 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-12 22:02:40,140 [Dummy-1] INFO: loaded 5 dictionaries in 0.001s
+2021-10-12 22:19:17,589 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-12 22:19:18,213 [Dummy-1] INFO: loaded 5 dictionaries in 0.001s
+2021-10-12 22:19:22,027 [Dummy-1] INFO: loaded 5 dictionaries in 0.001s
+2021-10-12 22:24:33,921 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-12 22:24:34,440 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
+2021-10-12 22:24:35,073 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
+2021-10-15 10:57:07,753 [MainThread] INFO: setting language to: en_US
+2021-10-15 10:57:09,217 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-10-15 10:57:09,218 [Dummy-1] INFO: loading system: English Stenotype
+2021-10-15 10:57:09,596 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-15 10:57:10,300 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-10-15 10:57:10,301 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-10-15 10:57:10,302 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-10-15 10:57:10,303 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-10-15 10:57:10,304 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-10-15 10:57:11,676 [Dummy-1] INFO: loaded 5 dictionaries in 1.376s
+2021-10-15 17:15:18,441 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-15 17:15:19,485 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
+2021-10-17 11:25:40,160 [MainThread] INFO: setting language to: en_US
+2021-10-17 11:25:40,738 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-10-17 11:25:40,739 [Dummy-1] INFO: loading system: English Stenotype
+2021-10-17 11:25:40,886 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-17 11:25:41,220 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-10-17 11:25:41,221 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-10-17 11:25:41,221 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-10-17 11:25:41,221 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-10-17 11:25:41,223 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-10-17 11:25:41,891 [Dummy-1] INFO: loaded 5 dictionaries in 0.671s
+2021-10-21 13:35:36,150 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-21 13:35:36,646 [Dummy-1] INFO: loaded 5 dictionaries in 0.001s
+2021-10-21 17:12:30,706 [MainThread] INFO: setting language to: en_US
+2021-10-21 17:12:31,793 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-10-21 17:12:31,793 [Dummy-1] INFO: loading system: English Stenotype
+2021-10-21 17:12:32,056 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-21 17:12:32,492 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-10-21 17:12:32,493 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-10-21 17:12:32,493 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-10-21 17:12:32,494 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-10-21 17:12:32,495 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-10-21 17:12:33,350 [Dummy-1] INFO: loaded 5 dictionaries in 0.858s
+2021-10-22 13:24:17,255 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
+2021-10-22 13:24:49,562 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-10-22 13:24:52,232 [Dummy-1] INFO: loaded 6 dictionaries in 2.670s
+2021-10-22 13:24:54,004 [Dummy-1] INFO: loaded 6 dictionaries in 0.000s
+2021-10-23 12:12:11,417 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-23 12:12:12,071 [Dummy-1] INFO: loaded 6 dictionaries in 0.002s
+2021-10-27 00:01:38,837 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-27 00:01:41,942 [Dummy-1] INFO: loaded 6 dictionaries in 0.001s
+2021-10-27 00:02:02,814 [MainThread] INFO: setting language to: en_US
+2021-10-27 00:02:04,390 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-10-27 00:02:04,390 [Dummy-1] INFO: loading system: English Stenotype
+2021-10-27 00:02:04,842 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-27 00:02:05,910 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-10-27 00:02:05,911 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-10-27 00:02:05,912 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-10-27 00:02:05,913 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-10-27 00:02:05,913 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-10-27 00:02:05,914 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-10-27 00:02:07,946 [Dummy-1] INFO: loaded 6 dictionaries in 2.036s
+2021-10-31 14:05:44,851 [MainThread] INFO: setting language to: en_US
+2021-10-31 14:05:45,773 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-10-31 14:05:45,773 [Dummy-1] INFO: loading system: English Stenotype
+2021-10-31 14:05:45,996 [Dummy-1] INFO: setting machine: Keyboard
+2021-10-31 14:05:46,393 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-10-31 14:05:46,393 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-10-31 14:05:46,394 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-10-31 14:05:46,394 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-10-31 14:05:46,394 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-10-31 14:05:46,395 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-10-31 14:05:47,103 [Dummy-1] INFO: loaded 6 dictionaries in 0.709s
+2021-11-06 16:10:53,006 [MainThread] INFO: setting language to: en_US
+2021-11-06 16:10:54,636 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-06 16:10:54,636 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-06 16:10:54,913 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-06 16:10:55,457 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-06 16:10:55,458 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-06 16:10:55,458 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-06 16:10:55,460 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-06 16:10:55,460 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-06 16:10:55,461 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-06 16:10:56,376 [Dummy-1] INFO: loaded 6 dictionaries in 0.919s
+2021-11-06 16:17:34,153 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-06 16:17:34,631 [Dummy-1] INFO: loaded 6 dictionaries in 0.000s
+2021-11-06 17:52:31,338 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-06 17:52:32,577 [Dummy-1] INFO: loaded 6 dictionaries in 0.000s
+2021-11-06 17:52:50,695 [MainThread] INFO: setting language to: en_US
+2021-11-06 17:52:51,145 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-06 17:52:51,145 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-06 17:52:51,279 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-06 17:52:51,594 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-06 17:52:51,594 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-06 17:52:51,594 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-06 17:52:51,597 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-06 17:52:51,598 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-06 17:52:51,598 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-06 17:52:52,283 [Dummy-1] INFO: loaded 6 dictionaries in 0.689s
+2021-11-07 00:27:35,110 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-07 00:27:35,484 [Dummy-1] INFO: loaded 6 dictionaries in 0.000s
+2021-11-07 00:28:06,069 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-07 00:28:06,344 [Dummy-1] INFO: loaded 6 dictionaries in 0.000s
+2021-11-07 00:54:36,084 [MainThread] INFO: setting language to: en_US
+2021-11-07 00:54:36,530 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-07 00:54:36,531 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-07 00:54:36,661 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-07 00:54:36,988 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-07 00:54:36,989 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-07 00:54:36,989 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-07 00:54:36,991 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-07 00:54:37,006 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-07 00:54:37,029 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-07 00:54:37,631 [Dummy-1] INFO: loaded 6 dictionaries in 0.643s
+2021-11-08 19:54:36,234 [MainThread] INFO: setting language to: en_US
+2021-11-08 19:54:37,101 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-08 19:54:37,102 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-08 19:54:37,295 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-08 19:54:37,714 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-08 19:54:37,714 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-08 19:54:37,715 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-08 19:54:37,715 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-08 19:54:37,718 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-08 19:54:37,718 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-08 19:54:38,397 [Dummy-1] INFO: loaded 6 dictionaries in 0.684s
+2021-11-10 00:18:07,841 [MainThread] INFO: setting language to: en_US
+2021-11-10 00:18:08,642 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-10 00:18:08,643 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-10 00:18:08,781 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-10 00:18:09,100 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-10 00:18:09,101 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-10 00:18:09,101 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-10 00:18:09,101 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-10 00:18:09,102 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-10 00:18:09,102 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-10 00:18:09,746 [Dummy-1] INFO: loaded 6 dictionaries in 0.645s
+2021-11-11 01:47:00,698 [MainThread] INFO: setting language to: en_US
+2021-11-11 01:47:01,359 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-11 01:47:01,359 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-11 01:47:01,544 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-11 01:47:01,959 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-11 01:47:01,959 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-11 01:47:01,960 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-11 01:47:01,961 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-11 01:47:01,961 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-11 01:47:01,962 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-11 01:47:02,788 [Dummy-1] INFO: loaded 6 dictionaries in 0.829s
+2021-11-11 17:34:51,486 [MainThread] INFO: setting language to: en_US
+2021-11-11 17:34:52,164 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-11 17:34:52,164 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-11 17:34:52,337 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-11 17:34:52,740 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-11 17:34:52,740 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-11 17:34:52,740 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-11 17:34:52,741 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-11 17:34:52,741 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-11 17:34:52,742 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-11 17:34:53,459 [Dummy-1] INFO: loaded 6 dictionaries in 0.720s
+2021-11-12 00:58:36,895 [MainThread] INFO: setting language to: en_US
+2021-11-12 00:58:37,428 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-12 00:58:37,428 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-12 00:58:37,606 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-12 00:58:37,974 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-12 00:58:37,975 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-12 00:58:37,975 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-12 00:58:37,976 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-12 00:58:37,977 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-12 00:58:37,978 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-12 00:58:38,721 [Dummy-1] INFO: loaded 6 dictionaries in 0.747s
+2021-11-12 09:51:53,622 [MainThread] INFO: setting language to: en_US
+2021-11-12 09:51:54,336 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-12 09:51:54,336 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-12 09:51:54,477 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-12 09:51:54,782 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-12 09:51:54,782 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-12 09:51:54,783 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-12 09:51:54,783 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-12 09:51:54,784 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-12 09:51:54,784 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-12 09:51:55,368 [Dummy-1] INFO: loaded 6 dictionaries in 0.585s
+2021-11-12 10:45:12,952 [MainThread] INFO: setting language to: en_US
+2021-11-12 10:45:13,366 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-12 10:45:13,366 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-12 10:45:13,505 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-12 10:45:13,805 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-12 10:45:13,806 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-12 10:45:13,806 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-12 10:45:13,806 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-12 10:45:13,808 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-12 10:45:13,809 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-12 10:45:14,448 [Dummy-1] INFO: loaded 6 dictionaries in 0.644s
+2021-11-13 18:51:26,476 [MainThread] INFO: setting language to: en_US
+2021-11-13 18:51:27,773 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-13 18:51:27,773 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-13 18:51:27,984 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-13 18:51:28,489 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-13 18:51:28,490 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-13 18:51:28,490 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-13 18:51:28,491 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-13 18:51:28,491 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-13 18:51:28,492 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-13 18:51:29,400 [Dummy-1] INFO: loaded 6 dictionaries in 0.912s
+2021-11-14 12:21:45,536 [MainThread] INFO: setting language to: en_US
+2021-11-14 12:21:46,202 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-14 12:21:46,203 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-14 12:21:46,463 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-14 12:21:47,027 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-14 12:21:47,028 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-14 12:21:47,028 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-14 12:21:47,132 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-14 12:21:47,139 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-14 12:21:47,140 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-14 12:21:48,541 [Dummy-1] INFO: loaded 6 dictionaries in 1.514s
+2021-11-14 12:51:25,755 [MainThread] INFO: setting language to: en_US
+2021-11-14 12:51:26,180 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-14 12:51:26,180 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-14 12:51:26,311 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-14 12:51:26,620 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-14 12:51:26,621 [Dummy-1] INFO: loading dictionary: c:\users\josia\desktop\josiah_folder\steno\plover_phrasing\phrs.json
+2021-11-14 12:51:26,621 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\single_stroke_commands_v1.json
+2021-11-14 12:51:26,622 [Dummy-1] INFO: loading dictionary: c:\users\josia\downloads\lh_modifier_keys_v1.json
+2021-11-14 12:51:26,622 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-14 12:51:26,622 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-14 12:51:27,247 [Dummy-1] INFO: loaded 6 dictionaries in 0.627s
+2021-11-14 15:08:06,379 [Dummy-1] INFO: loaded 5 dictionaries in 0.000s
