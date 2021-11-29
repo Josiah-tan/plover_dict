@@ -644,3 +644,101 @@
 2021-11-29 12:02:31,238 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\plover_phrasing\phrs.json
 2021-11-29 12:02:31,239 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
 2021-11-29 12:02:31,675 [Dummy-1] INFO: loaded 5 dictionaries in 0.438s
+2021-11-29 21:48:48,121 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-29 21:48:48,133 [MainThread] INFO: 48 custom mappings(s)
+2021-11-29 21:48:49,070 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-11-29 21:48:49,070 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-29 21:48:49,413 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-29 21:48:49,423 [Dummy-1] INFO: XInput devices: 6, 8
+2021-11-29 21:48:49,424 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-11-29 21:48:49,431 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-11-29 21:48:49,433 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-11-29 21:48:49,434 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim\manual_input.json
+2021-11-29 21:48:49,435 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing\phrs.json
+2021-11-29 21:48:49,435 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-11-29 21:48:50,147 [Dummy-1] INFO: loaded 6 dictionaries in 0.723s
+2021-11-29 21:48:50,147 [Dummy-1] ERROR: loading dictionary `vim\manual_input.json` failed: [Errno 2] No such file or directory: '/home/josiah/.dotfiles/plover/.config/plover/vim\\manual_input.json'
+2021-11-29 21:48:50,173 [Dummy-1] ERROR: loading dictionary `plover_phrasing\phrs.json` failed: [Errno 2] No such file or directory: '/home/josiah/.dotfiles/plover/.config/plover/plover_phrasing\\phrs.json'
+2021-11-29 21:49:13,487 [Dummy-1] INFO: loaded 6 dictionaries in 0.000s
+2021-11-29 21:49:47,791 [Dummy-1] INFO: loaded 6 dictionaries in 0.000s
+2021-11-29 21:50:01,045 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-29 21:50:01,059 [MainThread] INFO: 48 custom mappings(s)
+2021-11-29 21:50:01,989 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-11-29 21:50:01,990 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-29 21:50:02,248 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-29 21:50:02,264 [Dummy-1] INFO: XInput devices: 6, 8
+2021-11-29 21:50:02,267 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-11-29 21:50:02,290 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-11-29 21:50:02,292 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-11-29 21:50:02,293 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim\manual_input.json
+2021-11-29 21:50:02,293 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing\phrs.json
+2021-11-29 21:50:02,294 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-11-29 21:50:02,920 [Dummy-1] INFO: loaded 6 dictionaries in 0.653s
+2021-11-29 21:50:02,921 [Dummy-1] ERROR: loading dictionary `vim\manual_input.json` failed: [Errno 2] No such file or directory: '/home/josiah/.dotfiles/plover/.config/plover/vim\\manual_input.json'
+2021-11-29 21:50:02,941 [Dummy-1] ERROR: loading dictionary `plover_phrasing\phrs.json` failed: [Errno 2] No such file or directory: '/home/josiah/.dotfiles/plover/.config/plover/plover_phrasing\\phrs.json'
+2021-11-29 21:50:48,173 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-29 21:50:48,185 [MainThread] INFO: 48 custom mappings(s)
+2021-11-29 21:50:49,120 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-11-29 21:50:49,121 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-29 21:50:49,331 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-29 21:50:49,341 [Dummy-1] INFO: XInput devices: 6, 8
+2021-11-29 21:50:49,342 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-11-29 21:50:49,342 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-11-29 21:50:49,347 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-11-29 21:50:49,351 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim\manual_input.json
+2021-11-29 21:50:49,352 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing\phrs.json
+2021-11-29 21:50:49,352 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-11-29 21:50:49,901 [Dummy-1] INFO: loaded 6 dictionaries in 0.559s
+2021-11-29 21:50:49,901 [Dummy-1] ERROR: loading dictionary `vim\manual_input.json` failed: [Errno 2] No such file or directory: '/home/josiah/.dotfiles/plover/.config/plover/vim\\manual_input.json'
+2021-11-29 21:50:49,914 [Dummy-1] ERROR: loading dictionary `plover_phrasing\phrs.json` failed: [Errno 2] No such file or directory: '/home/josiah/.dotfiles/plover/.config/plover/plover_phrasing\\phrs.json'
+2021-11-29 21:51:19,919 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-29 21:51:19,929 [MainThread] INFO: 48 custom mappings(s)
+2021-11-29 21:51:20,864 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-11-29 21:51:20,865 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-29 21:51:21,125 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-29 21:51:21,154 [Dummy-1] INFO: XInput devices: 6, 8
+2021-11-29 21:51:21,155 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-11-29 21:51:21,163 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-11-29 21:51:21,164 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-11-29 21:51:21,168 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing\phrs.json
+2021-11-29 21:51:21,169 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-11-29 21:51:21,674 [Dummy-1] INFO: loaded 5 dictionaries in 0.519s
+2021-11-29 21:51:21,675 [Dummy-1] ERROR: loading dictionary `plover_phrasing\phrs.json` failed: [Errno 2] No such file or directory: '/home/josiah/.dotfiles/plover/.config/plover/plover_phrasing\\phrs.json'
+2021-11-29 21:52:00,805 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-29 21:52:00,814 [MainThread] INFO: 48 custom mappings(s)
+2021-11-29 21:52:01,744 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-11-29 21:52:01,745 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-29 21:52:01,985 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-29 21:52:02,000 [Dummy-1] INFO: XInput devices: 6, 8
+2021-11-29 21:52:02,001 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-11-29 21:52:02,012 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-11-29 21:52:02,014 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-11-29 21:52:02,016 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2021-11-29 21:52:02,016 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-11-29 21:52:02,582 [Dummy-1] INFO: loaded 5 dictionaries in 0.582s
+2021-11-29 21:52:33,695 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-29 21:52:33,708 [MainThread] INFO: 48 custom mappings(s)
+2021-11-29 21:52:34,608 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-11-29 21:52:34,609 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-29 21:52:34,848 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-29 21:52:34,865 [Dummy-1] INFO: XInput devices: 6, 8
+2021-11-29 21:52:34,870 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-11-29 21:52:34,873 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-11-29 21:52:34,874 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-11-29 21:52:34,875 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2021-11-29 21:52:34,876 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2021-11-29 21:52:34,876 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-11-29 21:52:35,480 [Dummy-1] INFO: loaded 6 dictionaries in 0.610s
+2021-11-29 22:00:27,188 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-11-29 22:00:27,201 [MainThread] INFO: 48 custom mappings(s)
+2021-11-29 22:00:28,145 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-11-29 22:00:28,145 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-29 22:00:28,386 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-29 22:00:28,396 [Dummy-1] INFO: XInput devices: 6, 8
+2021-11-29 22:00:28,396 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-11-29 22:00:28,404 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-11-29 22:00:28,405 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-11-29 22:00:28,407 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2021-11-29 22:00:28,412 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2021-11-29 22:00:28,412 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-11-29 22:00:28,972 [Dummy-1] INFO: loaded 6 dictionaries in 0.576s

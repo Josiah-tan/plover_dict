@@ -1,3 +1,6 @@
 [submodule "plover_phrasing"]
 	path = plover_phrasing
 	url = https://github.com/Jade-GG/plover_phrasing.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/Josiah-tan/plover-vim.git
