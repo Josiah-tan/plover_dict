@@ -817,3 +817,35 @@
 2021-12-02 13:45:23,177 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\plover_phrasing\phrs.json
 2021-12-02 13:45:23,178 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
 2021-12-02 13:45:23,585 [Dummy-1] INFO: loaded 8 dictionaries in 0.415s
+2021-12-02 13:04:21,666 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-12-02 13:04:21,681 [MainThread] INFO: 48 custom mappings(s)
+2021-12-02 13:04:23,105 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-12-02 13:04:23,105 [Dummy-1] INFO: loading system: English Stenotype
+2021-12-02 13:04:23,567 [Dummy-1] INFO: setting machine: Keyboard
+2021-12-02 13:04:23,587 [Dummy-1] INFO: XInput devices: 6, 8
+2021-12-02 13:04:23,603 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-12-02 13:04:23,618 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2021-12-02 13:04:23,621 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2021-12-02 13:04:23,621 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-12-02 13:04:23,622 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-12-02 13:04:23,623 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2021-12-02 13:04:23,625 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2021-12-02 13:04:23,625 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-12-02 13:04:24,323 [Dummy-1] INFO: loaded 8 dictionaries in 0.720s
+2021-12-02 13:04:24,323 [Dummy-1] ERROR: loading dictionary `emily-modifiers/emily-modifiers.py` failed: Unsupported extension: py. Supported extensions: json, rtf
+2021-12-02 13:04:24,367 [Dummy-1] ERROR: loading dictionary `emily-symbols/emily-symbols.py` failed: Unsupported extension: py. Supported extensions: json, rtf
+2021-12-02 13:05:09,154 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-12-02 13:05:09,166 [MainThread] INFO: 48 custom mappings(s)
+2021-12-02 13:05:10,028 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-12-02 13:05:10,028 [Dummy-1] INFO: loading system: English Stenotype
+2021-12-02 13:05:10,319 [Dummy-1] INFO: setting machine: Keyboard
+2021-12-02 13:05:10,329 [Dummy-1] INFO: XInput devices: 6, 8
+2021-12-02 13:05:10,343 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-12-02 13:05:10,343 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2021-12-02 13:05:10,356 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2021-12-02 13:05:10,357 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-12-02 13:05:10,362 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-12-02 13:05:10,372 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2021-12-02 13:05:10,373 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2021-12-02 13:05:10,373 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-12-02 13:05:11,079 [Dummy-1] INFO: loaded 8 dictionaries in 0.736s
