@@ -742,3 +742,36 @@
 2021-11-29 22:00:28,412 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
 2021-11-29 22:00:28,412 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
 2021-11-29 22:00:28,972 [Dummy-1] INFO: loaded 6 dictionaries in 0.576s
+2021-11-29 23:23:01,845 [MainThread] INFO: setting language to: en_US
+2021-11-29 23:23:02,555 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-29 23:23:02,556 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-29 23:23:02,786 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-29 23:23:03,178 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-29 23:23:03,178 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\single_stroke_commands_v1.json
+2021-11-29 23:23:03,179 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-29 23:23:03,179 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\vim\manual_input.json
+2021-11-29 23:23:03,180 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\plover_phrasing\phrs.json
+2021-11-29 23:23:03,180 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-29 23:23:03,659 [Dummy-1] INFO: loaded 6 dictionaries in 0.481s
+2021-11-30 11:28:22,417 [MainThread] INFO: setting language to: en_US
+2021-11-30 11:28:22,775 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-11-30 11:28:22,775 [Dummy-1] INFO: loading system: English Stenotype
+2021-11-30 11:28:22,924 [Dummy-1] INFO: setting machine: Keyboard
+2021-11-30 11:28:23,223 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-11-30 11:28:23,224 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\single_stroke_commands_v1.json
+2021-11-30 11:28:23,224 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-11-30 11:28:23,224 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\vim\manual_input.json
+2021-11-30 11:28:23,226 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\plover_phrasing\phrs.json
+2021-11-30 11:28:23,228 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-11-30 11:28:23,633 [Dummy-1] INFO: loaded 6 dictionaries in 0.409s
+2021-12-02 13:29:21,251 [MainThread] INFO: setting language to: en_US
+2021-12-02 13:29:22,128 [Dummy-1] INFO: set_stroke_filename(C:\Users\josia\AppData\Local\plover\plover\strokes.log)
+2021-12-02 13:29:22,128 [Dummy-1] INFO: loading system: English Stenotype
+2021-12-02 13:29:22,324 [Dummy-1] INFO: setting machine: Keyboard
+2021-12-02 13:29:22,699 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\user.json
+2021-12-02 13:29:22,700 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\single_stroke_commands_v1.json
+2021-12-02 13:29:22,700 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\commands.json
+2021-12-02 13:29:22,701 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\vim\manual_input.json
+2021-12-02 13:29:22,701 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\plover_phrasing\phrs.json
+2021-12-02 13:29:22,705 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
+2021-12-02 13:29:23,123 [Dummy-1] INFO: loaded 6 dictionaries in 0.424s
