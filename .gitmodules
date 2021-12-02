@@ -4,3 +4,9 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/Josiah-tan/plover-vim.git
+[submodule "emily-symbols"]
+	path = emily-symbols
+	url = https://github.com/EPLHREU/emily-symbols.git
+[submodule "emily-modifiers"]
+	path = emily-modifiers
+	url = https://github.com/EPLHREU/emily-modifiers.git
