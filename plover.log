@@ -975,3 +975,4 @@
 2021-12-07 18:51:02,869 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\plover_phrasing\phrs.json
 2021-12-07 18:51:02,870 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
 2021-12-07 18:51:03,275 [Dummy-1] INFO: loaded 8 dictionaries in 0.408s
+2021-12-08 10:13:13,378 [Dummy-1] INFO: stopping `plover_clippy` extension
