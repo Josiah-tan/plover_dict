@@ -975,9 +975,7 @@
 2021-12-07 18:51:02,869 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\plover_phrasing\phrs.json
 2021-12-07 18:51:02,870 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
 2021-12-07 18:51:03,275 [Dummy-1] INFO: loaded 8 dictionaries in 0.408s
-<<<<<<< HEAD
 2021-12-08 10:13:13,378 [Dummy-1] INFO: stopping `plover_clippy` extension
-=======
 2021-12-08 01:08:08,367 [MainThread] INFO: setting language to: en_US.UTF-8
 2021-12-08 01:08:08,378 [MainThread] INFO: 48 custom mappings(s)
 2021-12-08 01:08:09,555 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
@@ -995,4 +993,3 @@
 2021-12-08 01:08:10,747 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
 2021-12-08 01:08:12,402 [Dummy-1] INFO: loaded 8 dictionaries in 1.679s
 2021-12-08 01:08:18,003 [Dummy-1] INFO: loaded 8 dictionaries in 0.000s
->>>>>>> 904cdb9cac34f32aba69af5a336b71cb0c56936f
