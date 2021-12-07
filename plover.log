@@ -975,4 +975,24 @@
 2021-12-07 18:51:02,869 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\plover_phrasing\phrs.json
 2021-12-07 18:51:02,870 [Dummy-1] INFO: loading dictionary: c:\users\josia\appdata\local\plover\plover\main.json
 2021-12-07 18:51:03,275 [Dummy-1] INFO: loaded 8 dictionaries in 0.408s
+<<<<<<< HEAD
 2021-12-08 10:13:13,378 [Dummy-1] INFO: stopping `plover_clippy` extension
+=======
+2021-12-08 01:08:08,367 [MainThread] INFO: setting language to: en_US.UTF-8
+2021-12-08 01:08:08,378 [MainThread] INFO: 48 custom mappings(s)
+2021-12-08 01:08:09,555 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2021-12-08 01:08:09,557 [Dummy-1] INFO: loading system: English Stenotype
+2021-12-08 01:08:10,712 [Dummy-1] INFO: setting machine: Keyboard
+2021-12-08 01:08:10,721 [Dummy-1] INFO: XInput devices: 6, 8
+2021-12-08 01:08:10,722 [Dummy-1] INFO: starting `plover_clippy` extension
+2021-12-08 01:08:10,723 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2021-12-08 01:08:10,728 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2021-12-08 01:08:10,730 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2021-12-08 01:08:10,741 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2021-12-08 01:08:10,741 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2021-12-08 01:08:10,742 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2021-12-08 01:08:10,746 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2021-12-08 01:08:10,747 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2021-12-08 01:08:12,402 [Dummy-1] INFO: loaded 8 dictionaries in 1.679s
+2021-12-08 01:08:18,003 [Dummy-1] INFO: loaded 8 dictionaries in 0.000s
+>>>>>>> 904cdb9cac34f32aba69af5a336b71cb0c56936f
