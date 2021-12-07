@@ -155,3 +155,12 @@
 [2021-12-08 00:44:52] etiology        || *E/T*/*EU/O*/HR*/O*/TKPW*/KWR* -> TO*LG, AOET/OLG, ET/KWROLG, AOET/KWROL, AOET/KWROLG, AOED/KWROLG, AOE/TAOE/OLG
 [2021-12-08 00:45:23] what on earth   || WHA/OPB/*ERT -> WHAERT
 [2021-12-08 00:46:36] what on earth   || WHA/OPB/*ERT -> WHAERT
+[2021-12-08 01:09:04] what on earth   || WHA/OPB/*ERT -> WHAERT
+[2021-12-08 01:09:05] earth is        || *ERT/S -> S*ERT
+[2021-12-08 01:09:06] is going        || S/TKPW-G -> STKPW-G
+[2021-12-08 01:09:35] this is         || TH/S -> TH-S
+[2021-12-08 01:09:37] is what         || S/WHA -> SWHA*
+[2021-12-08 01:09:39] what on earth   || WHA/OPB/*ERT -> WHAERT
+[2021-12-08 01:09:41] earth is        || *ERT/S -> S*ERT
+[2021-12-08 01:09:42] is going        || S/TKPW-G -> STKPW-G
+[2021-12-08 01:09:50] is going        || S/TKPW-G -> STKPW-G
