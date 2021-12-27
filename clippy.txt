@@ -1,166 +1,568 @@
-[2021-12-07 21:29:47] this is         || TH/S -> TH-S
-[2021-12-07 21:29:48] is not          || S/TPHOT -> S-PBLT, STPHOT
-[2021-12-07 21:29:53] what on earth   || WHA/OPB/*ERT -> WHAERT
-[2021-12-07 21:30:22] he can          || E/K -> KE, KWHR-BG
-[2021-12-07 21:30:58] it may          || T/PHAEU -> KPWH-PL
-[2021-12-07 21:31:59] -price          || H-PB/PRAOEUS -> PRAO*EUS
-[2021-12-07 21:31:59] priced          || PRAOEUS/-D -> PRAOEUFD
-[2021-12-07 21:32:23] full of         || TPUL/-F -> TPUFL
-[2021-12-07 21:32:25] ester           || ES/TER -> -FRT
-[2021-12-07 21:32:26] esoteric        || ES/TER/EUBG -> ES/TERBG, ES/TAOERBG
-[2021-12-07 21:34:39] originally      || ORPBLG/HREU -> OEURPBLG
-[2021-12-07 21:34:47] magical         || PHAPBLG/K-L -> PHA*LG
-[2021-12-07 21:36:48] a little        || AEU/HREUL -> HR-LT, HRAEUL
-[2021-12-07 21:37:07] and more        || SKP/PHOR -> SKPHOR
-[2021-12-07 21:37:32] did not         || TKEUD/TKUPT/TPHOT -> TK-PBLT, TKEUPBLT
-[2021-12-07 21:37:59] they all        || TWH/AUL -> TH*EL
-[2021-12-07 21:38:13] to feel         || O/TPAOEL -> TOFL
-[2021-12-07 21:38:16] put it          || PUT/T -> TPUT
-[2021-12-07 21:38:17] She felt        || SHE/TPELT -> SHEFLT, SKWHR-FLT
-[2021-12-07 21:38:49] she remember    || SHE/RER -> SKWHR-RPL
-[2021-12-07 21:38:49] she remembered  || SHE/RERD -> SHERPLD
-[2021-12-07 21:38:51] to find         || O/TPAOEUPBD -> TOFPBD
-[2021-12-07 21:39:06] began to        || TKPWAPB/O -> STKPWAOPB
-[2021-12-07 21:40:29] one of          || WUPB/-F -> WUFPB
-[2021-12-07 21:40:55] one of          || WUPB/-F -> WUFPB
-[2021-12-07 21:41:38] It's a          || T-S/AEU -> TAEUS
-[2021-12-07 21:41:55] temptation      || TEFRPT/AEUGS -> TEFRPGS
-[2021-12-07 21:42:38] It's a          || T-S/AEU -> TAEUS
-[2021-12-07 21:43:22] It's a          || T-S/AEU -> TAEUS
-[2021-12-07 21:43:45] calling         || KAUL/-G -> KAULG
-[2021-12-07 21:43:46] ing in          || -G/TPH -> TPH-G
-[2021-12-07 21:43:47] ing and         || -G/SKP -> SKP-G
-[2021-12-07 21:53:45] They don't      || THE/TKOEPBT -> TWHOE
-[2021-12-07 21:53:46] don't know      || TKOEPBT/TPHOE -> STKPWHROEPB
-[2021-12-07 21:53:46] They don't know || THE/TKOEPBT/TPHOE -> TWHOEPB
-[2021-12-07 21:53:47] know that       || TPHOE/THA -> STKPWHR-PBT
-[2021-12-07 21:53:47] don't know that || TKOEPBT/TPHOE/THA -> STKPWHROEPBT
-[2021-12-07 21:53:47] They don't know that || THE/TKOEPBT/TPHOE/THA -> TWHOEPBT
-[2021-12-07 21:53:51] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 21:53:53] they know       || THE/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 21:53:54] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 21:54:00] They don't      || THE/TKOEPBT -> TWHOE
-[2021-12-07 21:54:01] don't know      || TKOEPBT/TPHOE -> STKPWHROEPB
-[2021-12-07 21:54:01] They don't know || THE/TKOEPBT/TPHOE -> TWHOEPB
-[2021-12-07 21:54:01] know that       || TPHOE/THA -> STKPWHR-PBT
-[2021-12-07 21:54:01] don't know that || TKOEPBT/TPHOE/THA -> STKPWHROEPBT
-[2021-12-07 21:54:01] They don't know that || THE/TKOEPBT/TPHOE/THA -> TWHOEPBT
-[2021-12-07 21:54:02] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 21:54:04] they know       || THE/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 21:54:04] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 21:59:08] They don't      || THE/TKOEPBT -> TWHOE
-[2021-12-07 21:59:09] don't know      || TKOEPBT/TPHOE -> STKPWHROEPB
-[2021-12-07 21:59:09] They don't know || THE/TKOEPBT/TPHOE -> TWHOEPB
-[2021-12-07 21:59:09] know that       || TPHOE/THA -> STKPWHR-PBT
-[2021-12-07 21:59:09] don't know that || TKOEPBT/TPHOE/THA -> STKPWHROEPBT
-[2021-12-07 21:59:09] They don't know that || THE/TKOEPBT/TPHOE/THA -> TWHOEPBT
-[2021-12-07 21:59:10] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 21:59:12] they know       || THE/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 21:59:14] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:02:00] They don't      || TWH/TKOEPBT -> TWHOE
-[2021-12-07 22:02:00] don't know      || TKOEPBT/TPHOE -> STKPWHROEPB
-[2021-12-07 22:02:00] They don't know || TWH/TKOEPBT/TPHOE -> TWHOEPB
-[2021-12-07 22:02:01] know that       || TPHOE/THA -> STKPWHR-PBT
-[2021-12-07 22:02:01] don't know that || TKOEPBT/TPHOE/THA -> STKPWHROEPBT
-[2021-12-07 22:02:01] They don't know that || TWH/TKOEPBT/TPHOE/THA -> TWHOEPBT
-[2021-12-07 22:02:02] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:02:03] they know       || THE/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 22:02:04] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:02:08] They don't      || THE/TKOEPBT -> TWHOE
-[2021-12-07 22:02:08] don't know      || TKOEPBT/TPHOE -> STKPWHROEPB
-[2021-12-07 22:02:08] They don't know || THE/TKOEPBT/TPHOE -> TWHOEPB
-[2021-12-07 22:02:09] know that       || TPHOE/THA -> STKPWHR-PBT
-[2021-12-07 22:02:09] don't know that || TKOEPBT/TPHOE/THA -> STKPWHROEPBT
-[2021-12-07 22:02:09] They don't know that || THE/TKOEPBT/TPHOE/THA -> TWHOEPBT
-[2021-12-07 22:02:10] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:02:11] they know       || THE/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 22:02:12] they know       || TWH/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 22:02:18] They don't      || TWH/TKOEPBT -> TWHOE
-[2021-12-07 22:02:18] don't know      || TKOEPBT/TPHOE -> STKPWHROEPB
-[2021-12-07 22:02:18] They don't know || TWH/TKOEPBT/TPHOE -> TWHOEPB
-[2021-12-07 22:02:19] know that       || TPHOE/THA -> STKPWHR-PBT
-[2021-12-07 22:02:19] don't know that || TKOEPBT/TPHOE/THA -> STKPWHROEPBT
-[2021-12-07 22:02:19] They don't know that || TWH/TKOEPBT/TPHOE/THA -> TWHOEPBT
-[2021-12-07 22:02:20] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:02:20] they know       || THE/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 22:02:22] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:02:43] They don't      || TWH/TKOEPBT -> TWHOE
-[2021-12-07 22:02:44] don't know      || TKOEPBT/TPHOE -> STKPWHROEPB
-[2021-12-07 22:02:44] They don't know || TWH/TKOEPBT/TPHOE -> TWHOEPB
-[2021-12-07 22:02:44] know that       || TPHOE/THA -> STKPWHR-PBT
-[2021-12-07 22:02:44] don't know that || TKOEPBT/TPHOE/THA -> STKPWHROEPBT
-[2021-12-07 22:02:44] They don't know that || TWH/TKOEPBT/TPHOE/THA -> TWHOEPBT
-[2021-12-07 22:02:45] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:02:46] they know       || THE/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 22:02:47] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:03:30] they don't      || TWH/TKOEPBT -> TWHOE
-[2021-12-07 22:03:31] don't know      || TKOEPBT/TPHOE -> STKPWHROEPB
-[2021-12-07 22:03:31] they don't know || TWH/TKOEPBT/TPHOE -> TWHOEPB
-[2021-12-07 22:03:31] know that       || TPHOE/THA -> STKPWHR-PBT
-[2021-12-07 22:03:31] don't know that || TKOEPBT/TPHOE/THA -> STKPWHROEPBT
-[2021-12-07 22:03:31] they don't know that || TWH/TKOEPBT/TPHOE/THA -> TWHOEPBT
-[2021-12-07 22:03:32] that he         || THA/E -> THAE, STHAE
-[2021-12-07 22:03:33] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:03:34] they know       || THE/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 22:03:34] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:04:10] They don't      || TWH/TKOEPBT -> TWHOE
-[2021-12-07 22:04:11] don't know      || TKOEPBT/TPHOE -> STKPWHROEPB
-[2021-12-07 22:04:11] They don't know || TWH/TKOEPBT/TPHOE -> TWHOEPB
-[2021-12-07 22:04:11] know that       || TPHOE/THA -> STKPWHR-PBT
-[2021-12-07 22:04:11] don't know that || TKOEPBT/TPHOE/THA -> STKPWHROEPBT
-[2021-12-07 22:04:11] They don't know that || TWH/TKOEPBT/TPHOE/THA -> TWHOEPBT
-[2021-12-07 22:04:12] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-07 22:04:13] they know       || THE/TPHOE -> TWH-PB, TH*EPB
-[2021-12-07 22:04:14] we know         || WE/TPHOE -> W*EPB, TWR-PB
-[2021-12-08 00:26:45] with your       || W/KWROUR -> WUR
-[2021-12-08 00:27:05] you felt        || U/TPELT -> UFLT, KPWR-FLT
-[2021-12-08 00:27:51] from the        || TPR/-T -> TPR-T
-[2021-12-08 00:27:56] with your       || W/KWROUR -> WUR
-[2021-12-08 00:28:13] you felt        || U/TPELT -> UFLT, KPWR-FLT
-[2021-12-08 00:28:40] with your       || W/KWROUR -> WUR
-[2021-12-08 00:29:27] with your       || W/KWROUR -> WUR
-[2021-12-08 00:30:36] with your       || W/KWROUR -> WUR
-[2021-12-08 00:30:49] you felt        || U/TPELT -> UFLT, KPWR-FLT
-[2021-12-08 00:31:47] with your       || W/KWROUR -> WUR
-[2021-12-08 00:32:37] do you know     || TKOU/TPHOE -> STKOUPB, TKAOUPBLG
-[2021-12-08 00:32:37] know the        || TPHOE/-T -> TPHO*ET, STKPWHR*PBT
-[2021-12-08 00:32:37] do you know the || TKOU/TPHOE/-T -> STKO*UPBT
-[2021-12-08 00:32:39] things to       || THEUPBGS/O -> THOEUPBGS
-[2021-12-08 00:32:41] she said        || SHE/SED -> SHEBS, SKWHR-BS
-[2021-12-08 00:33:28] different from  || TKEUFRPBT/TPR -> TKREUFRPB, TKPREUFRPB
-[2021-12-08 00:33:32] what he was     || WHA/KWHR-FS -> WHAEFS
-[2021-12-08 00:33:43] imagination     || PHAPBLG/TPHAEUGS -> PHAEGS
-[2021-12-08 00:37:39] different from  || TKEUFRPBT/TPR -> TKREUFRPB, TKPREUFRPB
-[2021-12-08 00:40:40] pretending      || PREPBD/-G -> PREPBGD
-[2021-12-08 00:40:56] they all        || THE/AUL -> TH*EL
-[2021-12-08 00:42:20] point of view   || POEUPBT/-F/SRAOU -> PO*F
-[2021-12-08 00:44:06] et              || *E/T* -> ET
-[2021-12-08 00:44:07] io              || *EU/O* -> KWRO*E
-[2021-12-08 00:44:07] etio            || *E/T*/*EU/O* -> AOET/KWRO, AOET/KWROE
-[2021-12-08 00:44:07] ol              || O*/HR* -> OL, O*L
-[2021-12-08 00:44:08] lo              || HR*/O* -> HRO
-[2021-12-08 00:44:10] ol              || O*/HR* -> OL, O*L
-[2021-12-08 00:44:10] lo              || HR*/O* -> HRO
-[2021-12-08 00:44:12] log             || HR*/O*/TKPW* -> HROG
-[2021-12-08 00:44:12] ology           || O*/HR*/O*/TKPW*/KWR* -> OLG
-[2021-12-08 00:44:12] etiology        || *E/T*/*EU/O*/HR*/O*/TKPW*/KWR* -> TO*LG, AOET/OLG, ET/KWROLG, AOET/KWROL, AOET/KWROLG, AOED/KWROLG, AOE/TAOE/OLG
-[2021-12-08 00:44:35] hi              || H*/*EU -> HEU, HAO*EU
-[2021-12-08 00:44:49] et              || *E/T* -> ET
-[2021-12-08 00:44:50] io              || *EU/O* -> KWRO*E
-[2021-12-08 00:44:50] etio            || *E/T*/*EU/O* -> AOET/KWRO, AOET/KWROE
-[2021-12-08 00:44:50] ol              || O*/HR* -> OL, O*L
-[2021-12-08 00:44:51] lo              || HR*/O* -> HRO
-[2021-12-08 00:44:51] log             || HR*/O*/TKPW* -> HROG
-[2021-12-08 00:44:52] ology           || O*/HR*/O*/TKPW*/KWR* -> OLG
-[2021-12-08 00:44:52] etiology        || *E/T*/*EU/O*/HR*/O*/TKPW*/KWR* -> TO*LG, AOET/OLG, ET/KWROLG, AOET/KWROL, AOET/KWROLG, AOED/KWROLG, AOE/TAOE/OLG
-[2021-12-08 00:45:23] what on earth   || WHA/OPB/*ERT -> WHAERT
-[2021-12-08 00:46:36] what on earth   || WHA/OPB/*ERT -> WHAERT
-[2021-12-08 01:09:04] what on earth   || WHA/OPB/*ERT -> WHAERT
-[2021-12-08 01:09:05] earth is        || *ERT/S -> S*ERT
-[2021-12-08 01:09:06] is going        || S/TKPW-G -> STKPW-G
-[2021-12-08 01:09:35] this is         || TH/S -> TH-S
-[2021-12-08 01:09:37] is what         || S/WHA -> SWHA*
-[2021-12-08 01:09:39] what on earth   || WHA/OPB/*ERT -> WHAERT
-[2021-12-08 01:09:41] earth is        || *ERT/S -> S*ERT
-[2021-12-08 01:09:42] is going        || S/TKPW-G -> STKPW-G
-[2021-12-08 01:09:50] is going        || S/TKPW-G -> STKPW-G
+[2021-12-27 00:09:20] why not         || KWR/TPHOT -> KWR-PBLT
+[2021-12-27 00:09:25] form of         || TPORPL/-F -> TPOFRPL
+[2021-12-27 00:09:34] is in           || S/EUPB -> STPH
+[2021-12-27 00:09:38] millions of     || PHOEUPBS/-F -> PHOEUFPBS
+[2021-12-27 00:10:27] is in           || S/EUPB -> STPH
+[2021-12-27 00:11:22] is in           || S/EUPB -> STPH
+[2021-12-27 00:11:59] why not         || KWR/TPHOT -> KWR-PBLT
+[2021-12-27 00:12:06] is in           || S/EUPB -> STPH
+[2021-12-27 00:12:59] is in           || S/EUPB -> STPH
+[2021-12-27 00:13:45] is in           || S/EUPB -> STPH
+[2021-12-27 00:14:12] you have        || KPWR/SR -> SR*U, KPWR-F
+[2021-12-27 00:14:27] mighty          || PHAOEUT/KWREU -> PHOEUT
+[2021-12-27 00:15:11] mighty          || PHAOEUT/KWREU -> PHOEUT
+[2021-12-27 00:17:13] can you         || K/U -> KU, K*U
+[2021-12-27 00:17:19] have said       || SR/SED -> SR-BS
+[2021-12-27 00:17:52] have said       || SR/SED -> SR-BS
+[2021-12-27 00:19:55] up to           || UP/O -> TOUP
+[2021-12-27 00:20:00] it got          || T/TKPWOT -> KPWH*GT
+[2021-12-27 00:20:08] is what         || S/WHA -> SWHA*
+[2021-12-27 00:20:08] what happens    || WHA/HAPS -> WHAPS
+[2021-12-27 00:20:10] when I get      || WHEU/TKPWET -> SWHEUGT
+[2021-12-27 00:20:11] on the          || OPB/-T -> OPBT, O*PBT
+[2021-12-27 00:20:30] up to           || UP/O -> TOUP
+[2021-12-27 00:20:45] what happens    || WHA/HAPS -> WHAPS
+[2021-12-27 00:21:43] on the          || OPB/-T -> OPBT, O*PBT
+[2021-12-27 00:26:32] context         || KAUPB/TEGT -> KEGT, K*EGT
+[2021-12-27 00:26:40] grandparents    || TKPWRAPBD/PARPBTS -> TKPWR-PTS
+[2021-12-27 00:26:42] talked about    || TAUBGD/PW -> TAUBGTD, TPWAUBGD
+[2021-12-27 00:26:52] she wanted to   || SKWHR-PD/O -> SKWHR-PTD
+[2021-12-27 00:27:02] happier         || HAEP/*ER -> HAERP
+[2021-12-27 00:27:38] they meant      || TWH/PHEPBT -> TWH-PBLT
+[2021-12-27 00:27:54] grandparents    || TKPWRAPBD/PARPBTS -> TKPWR-PTS
+[2021-12-27 00:27:56] talked about    || TAUBGD/PW -> TAUBGTD, TPWAUBGD
+[2021-12-27 00:29:22] talked about    || TAUBGD/PW -> TAUBGTD, TPWAUBGD
+[2021-12-27 00:31:55] more than       || PHOR/THAPB -> PH-RPB
+[2021-12-27 00:32:03] much, much      || PHUFP/-RB/PHUFP -> PHUFP/PHUFP
+[2021-12-27 00:32:04] more than       || PHOR/THAPB -> PH-RPB
+[2021-12-27 00:32:24] more than       || PHOR/THAPB -> PH-RPB
+[2021-12-27 00:32:31] more than       || PHOR/THAPB -> PH-RPB
+[2021-12-27 00:35:47] reward          || RE/WARD -> WRAR
+[2021-12-27 00:35:47] rewarded        || RE/WARD/-D -> WRA*RD
+[2021-12-27 00:36:33] rewarded        || WRAR/-D -> WRA*RD
+[2021-12-27 00:40:13] different from  || TKEUFRPBT/TPR -> TKREUFRPB, TKPREUFRPB
+[2021-12-27 00:40:34] imagination     || PHAPBLG/AEUGS -> PHAEGS
+[2021-12-27 00:41:20] different from  || TKEUFRPBT/TPR -> TKREUFRPB, TKPREUFRPB
+[2021-12-27 00:45:01] world to        || WORL/O -> TWORLD
+[2021-12-27 00:45:07] change it       || KHAEUPBG/T -> TKHAEUPBG
+[2021-12-27 13:57:38] sm              || S*/PH* -> *FPL
+[2021-12-27 13:57:39] mi              || PH*/*EU -> PH*EUP
+[2021-12-27 13:57:40] cha             || KH*/A* -> KHA
+[2021-12-27 13:57:43] I have to       || SWR-F/O -> SWR-FT
+[2021-12-27 13:57:47] thinking        || THEU/-G -> THEUG, THEUFPG
+[2021-12-27 13:58:39] sm              || S*/PH* -> *FPL
+[2021-12-27 13:58:39] mi              || PH*/*EU -> PH*EUP
+[2021-12-27 13:58:40] cha             || KH*/A* -> KHA
+[2021-12-27 13:59:28] it's a          || T-S/AEU -> TAEUS
+[2021-12-27 14:00:51] out to          || OUT/O -> TPOUT
+[2021-12-27 14:00:54] hard to         || HARD/O -> THAORD
+[2021-12-27 14:01:04] and she         || SKP/SHAOE -> SKPHE
+[2021-12-27 14:01:24] how is          || HOU/S -> HO*US
+[2021-12-27 14:01:25] how IS          || HOU/S/*UPD -> HO*US
+[2021-12-27 14:01:26] IS that         || *UPD/THA -> STHA, STHAPBT
+[2021-12-27 14:01:33] it would not    || KPWH-LD/TPHOT -> TWOPBLT
+[2021-12-27 14:01:35] any of          || TPHEU/-F -> TPHEUF
+[2021-12-27 14:08:06] of an           || -F/APB -> -FPB
+[2021-12-27 14:16:31] tho             || TH*/O* -> THO*
+[2021-12-27 14:16:32] the             || TH*/*E -> -T, -LT, -TD, -TS
+[2021-12-27 14:16:32] that the        || THA/TH*/*E -> THAT, THA*T, THA*ET
+[2021-12-27 14:16:32] theo            || TH*/*E/O* -> THO*EU, THAOE/KWROE
+[2021-12-27 14:16:33] or              || O*/R* -> OR, ORB, O*R, AUR
+[2021-12-27 14:16:33] re              || R*/*E -> RE, RAOE
+[2021-12-27 14:16:33] ore             || O*/R*/*E -> O*ER
+[2021-12-27 14:16:33] et              || *E/T* -> ET
+[2021-12-27 14:16:33] ret             || R*/*E/T* -> RET
+[2021-12-27 14:16:34] ic              || *EU/KR* -> EUBG
+[2021-12-27 14:16:34] tic             || T*/*EU/KR* -> T*EUBG
+[2021-12-27 14:16:34] theoretic       || TH*/*E/O*/R*/*E/T*/*EU/KR* -> THOEURT/EUBG, THAOE/RET/EUBG, THAOER/ET/EUBG, THAOER/RET/EUBG
+[2021-12-27 14:16:35] ah              || A*/H* -> HA*E, A*ERBGS
+[2021-12-27 14:16:35] al              || A*/HR* -> AL, A*L
+[2021-12-27 14:16:35] cal             || KR*/A*/HR* -> KAL, K-L
+[2021-12-27 14:16:35] ical            || *EU/KR*/A*/HR* -> K*L
+[2021-12-27 14:16:35] theoretical     || TH*/*E/O*/R*/*E/T*/*EU/KR*/A*/HR* -> THOEURL, THERT/K-L, THEURT/K-L, THOEURT/K-L, THER/ET/K-L, THER/RET/KAL, THOEUR/ET/K-L, THAOE/RET/K-L, THAOER/ET/K-L, THAOE/RET/KAL, THAOER/RET/K-L, THAOER/RET/KAL
+[2021-12-27 14:16:54] examination     || KPAPL/TPHAEUGS -> KP-GS, KP-PLGS, KP-PBGS, KPA*EUGS
+[2021-12-27 14:16:58] is what         || S/WHA -> SWHA*
+[2021-12-27 14:17:05] how is          || HOU/S -> HO*US
+[2021-12-27 14:17:07] supposed to     || SPOEFD/O -> STPOEFD
+[2021-12-27 14:17:19] do you imagine  || TKOU/PHAPBLG -> STKOUPLG
+[2021-12-27 14:17:41] ol              || O*/HR* -> OL, O*L
+[2021-12-27 14:17:41] Vol             || SR*P/O*/HR* -> SRO*L
+[2021-12-27 14:17:42] old             || O*/HR*/TK* -> OLD, OELD, OELTD
+[2021-12-27 14:17:42] de              || TK*/*E -> TK*E, TKE
+[2021-12-27 14:17:42] em              || *E/PH* -> EPL
+[2021-12-27 14:17:42] dem             || TK*/*E/PH* -> TKEPL
+[2021-12-27 14:17:44] de              || TK*/*E -> TK*E, TKE
+[2021-12-27 14:17:45] em              || *E/PH* -> EPL
+[2021-12-27 14:17:45] dem             || TK*/*E/PH* -> TKEPL
+[2021-12-27 14:17:45] emo             || *E/PH*/O* -> AOEPL, AOE/PHOE
+[2021-12-27 14:17:45] demo            || TK*/*E/PH*/O* -> TKPHO, TKPHOE, TKOEUPL, TKO*EUPL, TKEPL/OE, TKEPL/O*, TKEPL/PHOE, TKEPL/SKWRO
+[2021-12-27 14:17:45] or              || O*/R* -> OR, ORB, O*R, AUR
+[2021-12-27 14:17:46] Voldemort       || SR*P/O*/HR*/TK*/*E/PH*/O*/R*/T* -> SROLD/PHORT
+[2021-12-27 14:18:40] how is          || HOU/S -> HO*US
+[2021-12-27 14:18:42] supposed to     || SPOEFD/O -> STPOEFD
+[2021-12-27 14:19:02] do you imagine  || TKOU/PHAPBLG -> STKOUPLG
+[2021-12-27 14:20:28] would want      || WO/WAPBT -> WOUPT
+[2021-12-27 14:20:29] want to         || WAPBT/O -> WA*PBT, TWAOPBT, STKPWHR-PT
+[2021-12-27 14:21:35] supposed to     || SPOEFD/O -> STPOEFD
+[2021-12-27 14:23:35] carbon          || KAR/PWOPB -> KARPB, KO*RPB, KA*RPB
+[2021-12-27 14:23:41] carbon dioxide  || KAR/PWOPB/TKAOEUBGS/AOEUD -> KO*EUT, KOEUBGS
+[2021-12-27 14:23:49] as it           || AS/T -> TAZ
+[2021-12-27 14:23:57] infra           || EUPB/TPRA -> EUFRPB, TPRAEUPB
+[2021-12-27 14:23:57] infrared        || EUPB/TPRA/RED -> EUPB/TRARD, EUPB/TPRARD, EUPB/TPRAEURD
+[2021-12-27 14:24:00] radiation       || RAEUD/KWRAEUGS -> RAEGS, RA*EGS, RAEUGDZ, RAEUGSZ, RAEUGTSZ
+[2021-12-27 14:24:30] dangerously     || TKAEUPBLGS/HREU -> TKHRAEURPBLGS
+[2021-12-27 14:25:18] as it           || AS/T -> TAZ
+[2021-12-27 14:26:45] as it           || AS/T -> TAZ
+[2021-12-27 14:26:55] radiation       || RAEUD/KWRAEUGS -> RAEGS, RA*EGS, RAEUGDZ, RAEUGSZ, RAEUGTSZ
+[2021-12-27 14:27:02] continuous      || T-PB/OUS -> T-PBS
+[2021-12-27 14:27:55] as it           || AS/T -> TAZ
+[2021-12-27 14:28:04] radiation       || RAEUD/KWRAEUGS -> RAEGS, RA*EGS, RAEUGDZ, RAEUGSZ, RAEUGTSZ
+[2021-12-27 14:33:39] don't expect    || TKOEPBT/KPEBGT -> STKPWHROEPGT
+[2021-12-27 14:34:01] appeal          || A/PAOEL -> AEP
+[2021-12-27 14:34:19] salty           || SAULT/KWREU -> SAELT
+[2021-12-27 14:34:39] senses          || SEPBS/-S -> SEPBSZ
+[2021-12-27 14:34:42] Yes.            || KWRE/-P -> KWR*EFPLT
+[2021-12-27 14:34:46] Healthy         || H*ELT/KWREU -> HOEUFLT
+[2021-12-27 14:34:58] don't expect    || TKOEPBT/KPEBGT -> STKPWHROEPGT
+[2021-12-27 14:35:27] lot of          || HROT/-F -> HROFT
+[2021-12-27 14:38:29] salty           || SAULT/KWREU -> SAELT
+[2021-12-27 14:38:48] Yes.            || KWRE/-P -> KWR*EFPLT
+[2021-12-27 14:38:50] Healthy         || H*ELT/KWREU -> HOEUFLT
+[2021-12-27 14:39:39] Yes.            || KWRE/-P -> KWR*EFPLT
+[2021-12-27 14:39:41] Healthy         || H*ELT/KWREU -> HOEUFLT
+[2021-12-27 14:40:25] salty           || SAULT/KWREU -> SAELT
+[2021-12-27 14:40:38] Yes.            || KWRE/-P -> KWR*EFPLT
+[2021-12-27 14:40:40] Healthy         || H*ELT/KWREU -> HOEUFLT
+[2021-12-27 14:41:22] Yes.            || KWRE/-P -> KWR*EFPLT
+[2021-12-27 14:41:24] Healthy         || H*ELT/KWREU -> HOEUFLT
+[2021-12-27 14:41:42] he like to      || KWHR-BLG/O -> KWHR-BLGT
+[2021-12-27 14:41:52] Museum          || PHAOU/SAOEPL -> PHAOUPL, 3450U78, PHAO*UPL
+[2021-12-27 14:41:58] Museum of Natural History || PHAOU/SAOEPL/TKUPT/-F/KPA/TPHARL/KPA/HEUFRT -> PHAOUPL/-F/TPHARL/HOEUFRT
+[2021-12-27 14:42:10] the two         || -T/TWO -> TWOT
+[2021-12-27 14:42:34] pa              || P*/A* -> PA*EU, PA
+[2021-12-27 14:42:35] al              || A*/HR* -> AL, A*L
+[2021-12-27 14:42:35] pal             || P*/A*/HR* -> PAL
+[2021-12-27 14:42:35] le              || HR*/*E -> HRE, *L
+[2021-12-27 14:42:35] ale             || A*/HR*/*E -> AEL
+[2021-12-27 14:42:35] pale            || P*/A*/HR*/*E -> PAEL, PA*EUL
+[2021-12-27 14:42:36] leo             || HR*/*E/O* -> HRAOE/WOE, HRAOE/KWROE
+[2021-12-27 14:42:36] paleo           || P*/A*/HR*/*E/O* -> PAEUL/KWRO, PAEUL/KWROE
+[2021-12-27 14:42:36] on              || O*/TPH* -> OB, OPB, O*PB, AUPB, AOPB
+[2021-12-27 14:42:36] eon             || *E/O*/TPH* -> AOE/O*PB, AOE/KWROPB
+[2021-12-27 14:42:36] leon            || HR*/*E/O*/TPH* -> HRAOE/O*PB
+[2021-12-27 14:42:37] to              || T*/O* -> O, TPO
+[2021-12-27 14:42:37] onto            || O*/TPH*/T*/O* -> OEPBT, OPB/TO*
+[2021-12-27 14:42:37] ol              || O*/HR* -> OL, O*L
+[2021-12-27 14:42:38] lo              || HR*/O* -> HRO
+[2021-12-27 14:42:38] log             || HR*/O*/TKPW* -> HROG
+[2021-12-27 14:42:39] gi              || TKPW*/*EU -> TKPW*EU, TKPW*EUP, TKPW*EUFP
+[2021-12-27 14:42:39] is              || *EU/S* -> S, EUS
+[2021-12-27 14:42:39] gis             || TKPW*/*EU/S* -> TKPWEUS
+[2021-12-27 14:42:39] st              || S*/T* -> *FT
+[2021-12-27 14:42:39] ist             || *EU/S*/T* -> EUFT, TPHEUFT
+[2021-12-27 14:42:39] gist            || TKPW*/*EU/S*/T* -> SKWREUFT, SKWR*EUS
+[2021-12-27 14:42:39] ologist         || O*/HR*/O*/TKPW*/*EU/S*/T* -> OLG/EUFT
+[2021-12-27 14:43:25] he like to      || KWHR-BLG/O -> KWHR-BLGT
+[2021-12-27 14:43:43] Museum of Natural History || PHAOUPL/-F/KPA/TPHARL/KPA/HEUFRT -> PHAOUPL/-F/TPHARL/HOEUFRT
+[2021-12-27 14:43:52] the two         || -T/TWO -> TWOT
+[2021-12-27 14:43:55] and he can      || SKPE/K -> SKPEBG
+[2021-12-27 14:44:19] pa              || P*/A* -> PA*EU, PA
+[2021-12-27 14:44:19] al              || A*/HR* -> AL, A*L
+[2021-12-27 14:44:19] pal             || P*/A*/HR* -> PAL
+[2021-12-27 14:44:20] le              || HR*/*E -> HRE, *L
+[2021-12-27 14:44:20] ale             || A*/HR*/*E -> AEL
+[2021-12-27 14:44:20] pale            || P*/A*/HR*/*E -> PAEL, PA*EUL
+[2021-12-27 14:44:20] leo             || HR*/*E/O* -> HRAOE/WOE, HRAOE/KWROE
+[2021-12-27 14:44:20] paleo           || P*/A*/HR*/*E/O* -> PAEUL/KWRO, PAEUL/KWROE
+[2021-12-27 14:44:20] on              || O*/TPH* -> OB, OPB, O*PB, AUPB, AOPB
+[2021-12-27 14:44:20] eon             || *E/O*/TPH* -> AOE/O*PB, AOE/KWROPB
+[2021-12-27 14:44:20] leon            || HR*/*E/O*/TPH* -> HRAOE/O*PB
+[2021-12-27 14:44:21] to              || T*/O* -> O, TPO
+[2021-12-27 14:44:21] onto            || O*/TPH*/T*/O* -> OEPBT, OPB/TO*
+[2021-12-27 14:44:21] ol              || O*/HR* -> OL, O*L
+[2021-12-27 14:44:24] lo              || HR*/O* -> HRO
+[2021-12-27 14:44:24] log             || HR*/O*/TKPW* -> HROG
+[2021-12-27 14:44:25] gi              || TKPW*/*EU -> TKPW*EU, TKPW*EUP, TKPW*EUFP
+[2021-12-27 14:44:25] is              || *EU/S* -> S, EUS
+[2021-12-27 14:44:25] gis             || TKPW*/*EU/S* -> TKPWEUS
+[2021-12-27 14:44:25] st              || S*/T* -> *FT
+[2021-12-27 14:44:25] ist             || *EU/S*/T* -> EUFT, TPHEUFT
+[2021-12-27 14:44:25] gist            || TKPW*/*EU/S*/T* -> SKWREUFT, SKWR*EUS
+[2021-12-27 14:44:25] ologist         || O*/HR*/O*/TKPW*/*EU/S*/T* -> OLG/EUFT
+[2021-12-27 14:45:00] he like to      || KWHR-BLG/O -> KWHR-BLGT
+[2021-12-27 14:45:08] Museum of Natural History || PHAOUPL/-F/KPA/TPHARL/KPA/HEUFRT -> PHAOUPL/-F/TPHARL/HOEUFRT
+[2021-12-27 14:45:21] the two         || -T/TWO -> TWOT
+[2021-12-27 14:45:57] pa              || P*/A* -> PA*EU, PA
+[2021-12-27 14:45:57] al              || A*/HR* -> AL, A*L
+[2021-12-27 14:45:57] pal             || P*/A*/HR* -> PAL
+[2021-12-27 14:45:57] le              || HR*/*E -> HRE, *L
+[2021-12-27 14:45:57] ale             || A*/HR*/*E -> AEL
+[2021-12-27 14:45:57] pale            || P*/A*/HR*/*E -> PAEL, PA*EUL
+[2021-12-27 14:45:58] leo             || HR*/*E/O* -> HRAOE/WOE, HRAOE/KWROE
+[2021-12-27 14:45:58] paleo           || P*/A*/HR*/*E/O* -> PAEUL/KWRO, PAEUL/KWROE
+[2021-12-27 14:45:58] on              || O*/TPH* -> OB, OPB, O*PB, AUPB, AOPB
+[2021-12-27 14:45:58] eon             || *E/O*/TPH* -> AOE/O*PB, AOE/KWROPB
+[2021-12-27 14:45:58] leon            || HR*/*E/O*/TPH* -> HRAOE/O*PB
+[2021-12-27 14:45:59] to              || T*/O* -> O, TPO
+[2021-12-27 14:45:59] onto            || O*/TPH*/T*/O* -> OEPBT, OPB/TO*
+[2021-12-27 14:45:59] ol              || O*/HR* -> OL, O*L
+[2021-12-27 14:46:00] lo              || HR*/O* -> HRO
+[2021-12-27 14:46:00] log             || HR*/O*/TKPW* -> HROG
+[2021-12-27 14:46:01] gi              || TKPW*/*EU -> TKPW*EU, TKPW*EUP, TKPW*EUFP
+[2021-12-27 14:46:01] is              || *EU/S* -> S, EUS
+[2021-12-27 14:46:01] gis             || TKPW*/*EU/S* -> TKPWEUS
+[2021-12-27 14:46:01] st              || S*/T* -> *FT
+[2021-12-27 14:46:01] ist             || *EU/S*/T* -> EUFT, TPHEUFT
+[2021-12-27 14:46:01] gist            || TKPW*/*EU/S*/T* -> SKWREUFT, SKWR*EUS
+[2021-12-27 14:46:01] ologist         || O*/HR*/O*/TKPW*/*EU/S*/T* -> OLG/EUFT
+[2021-12-27 14:47:07] Museum of Natural History || PHAOUPL/-F/KPA/TPHARL/KPA/HEUFRT -> PHAOUPL/-F/TPHARL/HOEUFRT
+[2021-12-27 14:47:11] the two         || -T/TWO -> TWOT
+[2021-12-27 14:48:57] the two         || -T/TWO -> TWOT
+[2021-12-27 14:50:04] he can          || E/K -> KWHR-BG
+[2021-12-27 14:50:56] as you          || AS/U -> AUZ
+[2021-12-27 14:56:26] means that      || PHAOEPBS/THA -> TPHAOEPBS
+[2021-12-27 14:56:38] in an           || TPH/APB -> TPHA*PB
+[2021-12-27 14:56:46] in a            || TPH/A* -> TPHA*EU, TPHRA*EU
+[2021-12-27 14:56:47] an              || A*/TPH* -> -PB, APB, ARPB, A*PB
+[2021-12-27 14:56:47] in an           || TPH/A*/TPH* -> TPHA*PB
+[2021-12-27 14:56:47] ant             || A*/TPH*/T* -> A*PBT, APBT
+[2021-12-27 14:56:47] to              || T*/O* -> O, TPO
+[2021-12-27 14:56:48] os              || O*/S* -> O*S, OS
+[2021-12-27 14:56:49] ant             || A*/TPH*/T* -> A*PBT, APBT
+[2021-12-27 14:56:49] anti            || A*/TPH*/T*/*EU -> A*EUPBT, APB/TEU, APB/TAOEU
+[2021-12-27 14:56:49] is              || *EU/S* -> S, EUS
+[2021-12-27 14:56:49] tis             || T*/*EU/S* -> T*EUS
+[2021-12-27 14:56:50] ic              || *EU/KR* -> EUBG
+[2021-12-27 14:56:50] tic             || T*/*EU/KR* -> T*EUBG
+[2021-12-27 14:56:50] antic           || A*/TPH*/T*/*EU/KR* -> APB/TEUBG, APBT/EUBG
+[2021-12-27 14:56:51] ci              || KR*/*EU -> KR*EUP
+[2021-12-27 14:56:51] ip              || *EU/P* -> EUP
+[2021-12-27 14:56:51] pa              || P*/A* -> PA*EU, PA
+[2021-12-27 14:56:51] at              || A*/T* -> AT, ATS
+[2021-12-27 14:56:51] pat             || P*/A*/T* -> PAT/PAT, PAT
+[2021-12-27 14:56:52] at              || A*/T* -> AT, ATS
+[2021-12-27 14:56:52] pat             || P*/A*/T* -> PAT/PAT, PAT
+[2021-12-27 14:56:53] io              || *EU/O* -> KWRO*E
+[2021-12-27 14:56:53] patio           || P*/A*/T*/*EU/O* -> PAT/KWROE
+[2021-12-27 14:56:53] on              || O*/TPH* -> OB, OPB, O*PB, AUPB, AOPB
+[2021-12-27 14:56:53] ion             || *EU/O*/TPH* -> O*EUPB, AO*EUPB, AOEU/O*PB, AOEU/KWROPB, KWROPB
+[2021-12-27 14:56:53] tion            || T*/*EU/O*/TPH* -> SH*UPB
+[2021-12-27 14:56:53] ation           || A*/T*/*EU/O*/TPH* -> AEUGS
+[2021-12-27 14:57:46] means that      || PHAOEPBS/THA -> TPHAOEPBS
+[2021-12-27 14:58:48] means that      || PHAOEPBS/THA -> TPHAOEPBS
+[2021-12-27 14:59:29] means that      || PHAOEPBS/THA -> TPHAOEPBS
+[2021-12-27 15:00:11] means that      || PHAOEPBS/THA -> TPHAOEPBS
+[2021-12-27 15:00:50] said to         || SED/O -> STKPWHR-BTS
+[2021-12-27 15:03:06] flexibility     || TPHREBGS/EUBLT -> TPHREUBLT
+[2021-12-27 15:03:15] in our          || TPH/OUR -> TPHOUR
+[2021-12-27 15:03:30] remain          || RE/PHAEUPB -> RAEUPL
+[2021-12-27 15:10:44] every one       || EFR/WUPB -> *EFRPB
+[2021-12-27 15:12:24] top of the      || TOP/-FT -> TOFPT
+[2021-12-27 15:12:52] top of the      || TOP/-FT -> TOFPT
+[2021-12-27 15:13:13] that I've       || THA/AOEUF -> THA*EUF
+[2021-12-27 15:13:20] top of the      || TOP/-FT -> TOFPT
+[2021-12-27 15:13:31] she remembered  || SHE/RERD -> SHERPLD
+[2021-12-27 15:13:47] to find         || O/TPAOEUPBD -> TOFPBD
+[2021-12-27 15:13:48] she had         || SHE/HAD -> SKWHR-D
+[2021-12-27 15:14:32] best way to     || PWEFT/WAEU/O -> PWEFT/TWAOEU
+[2021-12-27 15:14:41] number of       || TPHUPL/-F -> TPHUFPL, TPHUFRPL
+[2021-12-27 15:14:54] things are      || THEUPBGS/R -> THREUPBGS
+[2021-12-27 15:15:02] with your       || W/KWOUR -> WUR
+[2021-12-27 15:15:02] with your       || W/KWROUR -> WUR
+[2021-12-27 15:15:44] best way to     || PWEFT/WAEU/O -> PWEFT/TWAOEU
+[2021-12-27 15:15:52] number of       || TPHUPL/-F -> TPHUFPL, TPHUFRPL
+[2021-12-27 15:16:04] things are      || THEUPBGS/R -> THREUPBGS
+[2021-12-27 15:16:17] what you        || WHA/U -> WHAU
+[2021-12-27 15:16:24] with your       || W/KWROUR -> WUR
+[2021-12-27 15:16:46] best way to     || PWEFT/WAEU/O -> PWEFT/TWAOEU
+[2021-12-27 15:16:53] number of       || TPHUPL/-F -> TPHUFPL, TPHUFRPL
+[2021-12-27 15:17:09] things are      || THEUPBGS/R -> THREUPBGS
+[2021-12-27 15:17:19] what you've     || WHA/UF -> WHA*UF
+[2021-12-27 15:17:28] what you        || WHA/U -> WHAU
+[2021-12-27 15:17:28] you have        || U/SR -> SR*U, KPWR-F
+[2021-12-27 15:17:35] with your       || W/KWROUR -> WUR
+[2021-12-27 15:17:55] best way to     || PWEFT/WAEU/O -> PWEFT/TWAOEU
+[2021-12-27 15:18:02] number of       || TPHUPL/-F -> TPHUFPL, TPHUFRPL
+[2021-12-27 15:18:17] things are      || THEUPBGS/R -> THREUPBGS
+[2021-12-27 15:18:23] with your       || W/KWROUR -> WUR
+[2021-12-27 15:19:47] with your       || W/KWROUR -> WUR
+[2021-12-27 15:20:45] with your       || W/KWROUR -> WUR
+[2021-12-27 15:21:53] with your       || W/KWROUR -> WUR
+[2021-12-27 15:23:03] what will       || WHA/HR -> WHA*L
+[2021-12-27 15:23:03] what WILL       || WHA/HR/*UPD -> WHA*L
+[2021-12-27 15:23:25] as far          || AS/TPAR -> STPA*R
+[2021-12-27 15:23:26] down the        || TKOUPB/-T -> TKOUPBT
+[2021-12-27 15:23:40] best way to     || PWEFT/WAEU/O -> PWEFT/TWAOEU
+[2021-12-27 15:23:58] things are      || THEUPBGS/R -> THREUPBGS
+[2021-12-27 15:24:02] with your       || W/KWROUR -> WUR
+[2021-12-27 15:25:57] has the         || HAS/-T -> STKPWHR*FTS
+[2021-12-27 15:26:08] Therefore,      || THR-FR/-RB -> THR-FRBGS
+[2021-12-27 15:27:08] Therefore,      || THR-FR/-RB -> THR-FRBGS
+[2021-12-27 15:27:35] This night      || TH/TPHAOEUT -> TH-PBT
+[2021-12-27 15:28:59] This night      || TH/TPHAOEUT -> TH-PBT
+[2021-12-27 15:33:55] Eve             || *EP/SR*/*E -> AOEF, AOEF/AOEF
+[2021-12-27 15:33:56] ey              || *E/KWR* -> KWRAOE
+[2021-12-27 15:34:32] he did it       || KWHR/TKEUD/T -> TKE/T
+[2021-12-27 15:35:08] .S              || -P/-Z -> S*PD, S*PLD
+[2021-12-27 15:35:40] he did it       || E/TKEUD/T -> TKE/T
+[2021-12-27 15:37:25] For instance    || TP-R/STPHAPBS -> TPREUPS, TPREUPBS, TPOERPBS
+[2021-12-27 15:37:29] as a            || AS/AEU -> SA*Z, SA*SZ, SA*DZ, SA*FZ
+[2021-12-27 15:37:57] me              || PH*/*E -> PHE, PHAOE, PHAO*E, SPHAOE
+[2021-12-27 15:37:57] meg             || PH*/*E/TKPW* -> PHEG
+[2021-12-27 15:37:58] ga              || TKPW*/A* -> TKPWA
+[2021-12-27 15:37:58] mega            || PH*/*E/TKPW*/A* -> PHEG/SKWRA, PH*EG, PH*EGS, PHEG/KWRA, PHEG/TKPWA
+[2021-12-27 15:37:58] at              || A*/T* -> AT, ATS
+[2021-12-27 15:37:58] gat             || TKPW*/A*/T* -> TKPWAT
+[2021-12-27 15:37:58] to              || T*/O* -> O, TPO
+[2021-12-27 15:37:58] on              || O*/TPH* -> OB, OPB, O*PB, AUPB, AOPB
+[2021-12-27 15:37:58] ton             || T*/O*/TPH* -> TOPB, TO*PB
+[2021-12-27 15:38:04] do              || TK*/O* -> TKO
+[2021-12-27 15:38:05] re              || R*/*E -> RE, RAOE
+[2021-12-27 15:38:05] ro              || R*/O* -> RO
+[2021-12-27 15:38:05] hydro           || H*/KWR*/TK*/R*/O* -> HAOEUD/ROE, HAO*RD, HAOEURD, HAO*EURD, HAOEUD/RO, HAOEU/TKROE, HAOEUD/TKROE, HAOEURD/SKWRO
+[2021-12-27 15:38:05] rog             || R*/O*/TKPW* -> ROPBLG
+[2021-12-27 15:38:06] ge              || TKPW*/*E -> *PBLG
+[2021-12-27 15:38:06] en              || *E/TPH* -> *EB, *EPB, EPB
+[2021-12-27 15:38:06] gen             || TKPW*/*E/TPH* -> SKWR*EPB
+[2021-12-27 15:38:06] hydrogen        || H*/KWR*/TK*/R*/O*/TKPW*/*E/TPH* -> TKROEUPB, HAOEUD/SKWREPB, HAOEURD/SKWREP, HAOEURD/SKWREPB, HAOEURT/SKWREPB, HAOEUD/RO/SKWREPB, HAOEU/TKRO/SKWREPB
+[2021-12-27 15:38:07] hydrogen bomb   || H*/KWR*/TK*/R*/O*/TKPW*/*E/TPH*/PWOPL -> HAOEUD/SKWREPB/PWOPL
+[2021-12-27 15:38:16] part of the     || PART/-FT -> PAFRT
+[2021-12-27 15:38:22] electro         || HREBGT/TK-LS/RO -> HRERBGT, HREBG/TRO, HREBG/SKWRO, HRERBGT/SKWRO
+[2021-12-27 15:38:25] magnet          || PHAG/TPHET -> PHEGT
+[2021-12-27 15:38:25] magnetic        || PHAG/TPHET/EUBG -> PH*EGT, PHAPBG/EUBG
+[2021-12-27 15:38:27] electromagnetic || HREBGT/TK-LS/TK-FPS -> HR*ERBG, HR*ERBGT
+[2021-12-27 15:38:30] spectrum        || SPEBG/TRUPL -> SPREPL
+[2021-12-27 15:38:56] For instance    || TP-R/STPHAPBS -> TPREUPS, TPREUPBS, TPOERPBS
+[2021-12-27 15:39:38] radiation       || RAEUD/KWRAEUGS -> RAEGS, RA*EGS, RAEUGDZ, RAEUGSZ, RAEUGTSZ
+[2021-12-27 15:39:45] me              || PH*/*E -> PHE, PHAOE, PHAO*E, SPHAOE
+[2021-12-27 15:39:46] meg             || PH*/*E/TKPW* -> PHEG
+[2021-12-27 15:39:46] ga              || TKPW*/A* -> TKPWA
+[2021-12-27 15:39:46] mega            || PH*/*E/TKPW*/A* -> PHEG/SKWRA, PH*EG, PH*EGS, PHEG/KWRA, PHEG/TKPWA
+[2021-12-27 15:39:47] at              || A*/T* -> AT, ATS
+[2021-12-27 15:39:47] gat             || TKPW*/A*/T* -> TKPWAT
+[2021-12-27 15:39:47] to              || T*/O* -> O, TPO
+[2021-12-27 15:39:47] on              || O*/TPH* -> OB, OPB, O*PB, AUPB, AOPB
+[2021-12-27 15:39:47] ton             || T*/O*/TPH* -> TOPB, TO*PB
+[2021-12-27 15:39:55] me              || PH*/*E -> PHE, PHAOE, PHAO*E, SPHAOE
+[2021-12-27 15:39:57] meg             || PH*/*E/TKPW* -> PHEG
+[2021-12-27 15:39:57] ga              || TKPW*/A* -> TKPWA
+[2021-12-27 15:39:57] mega            || PH*/*E/TKPW*/A* -> PHEG/SKWRA, PH*EG, PH*EGS, PHEG/KWRA, PHEG/TKPWA
+[2021-12-27 15:39:58] at              || A*/T* -> AT, ATS
+[2021-12-27 15:39:58] gat             || TKPW*/A*/T* -> TKPWAT
+[2021-12-27 15:39:58] to              || T*/O* -> O, TPO
+[2021-12-27 15:39:58] on              || O*/TPH* -> OB, OPB, O*PB, AUPB, AOPB
+[2021-12-27 15:39:58] ton             || T*/O*/TPH* -> TOPB, TO*PB
+[2021-12-27 15:40:03] me              || PH*/*E -> PHE, PHAOE, PHAO*E, SPHAOE
+[2021-12-27 15:40:05] meg             || PH*/*E/TKPW* -> PHEG
+[2021-12-27 15:40:05] ga              || TKPW*/A* -> TKPWA
+[2021-12-27 15:40:05] mega            || PH*/*E/TKPW*/A* -> PHEG/SKWRA, PH*EG, PH*EGS, PHEG/KWRA, PHEG/TKPWA
+[2021-12-27 15:40:06] at              || A*/T* -> AT, ATS
+[2021-12-27 15:40:06] gat             || TKPW*/A*/T* -> TKPWAT
+[2021-12-27 15:40:06] to              || T*/O* -> O, TPO
+[2021-12-27 15:40:06] on              || O*/TPH* -> OB, OPB, O*PB, AUPB, AOPB
+[2021-12-27 15:40:06] ton             || T*/O*/TPH* -> TOPB, TO*PB
+[2021-12-27 15:40:19] For instance    || TP-R/STPHAPBS -> TPREUPS, TPREUPBS, TPOERPBS
+[2021-12-27 15:40:48] part of the     || PART/-FT -> PAFRT
+[2021-12-27 15:40:59] electro         || HREBGT/TK-LS/RO -> HRERBGT, HREBG/TRO, HREBG/SKWRO, HRERBGT/SKWRO
+[2021-12-27 15:41:12] magnet          || PHAG/TPHET -> PHEGT
+[2021-12-27 15:41:12] magnetic        || PHAG/TPHET/EUBG -> PH*EGT, PHAPBG/EUBG
+[2021-12-27 15:41:12] electromagnetic || HRERBGT/PHAG/TPHET/EUBG -> HR*ERBG, HR*ERBGT, HREBGT/PHAG/EUBG
+[2021-12-27 15:41:26] spectrum        || SPEBG/TRUPL -> SPREPL
+[2021-12-27 15:41:46] For instance    || TP-R/STPHAPBS -> TPREUPS, TPREUPBS, TPOERPBS
+[2021-12-27 15:42:27] part of the     || PART/-FT -> PAFRT
+[2021-12-27 15:43:09] part of the     || PART/-FT -> PAFRT
+[2021-12-27 15:46:18] part of the     || PART/-FT -> PAFRT
+[2021-12-27 15:49:30] love you        || HROF/U -> HROUF
+[2021-12-27 15:49:43] give up         || TKPWEUF/UP -> TKPWUP
+[2021-12-27 15:50:33] when you are    || WHU/-R -> WH*UR, SWHUR
+[2021-12-27 15:51:48] likely to       || HRAOEULG/O -> THRAOEULG
+[2021-12-27 15:52:30] one of          || WUPB/-F -> WUFPB
+[2021-12-27 15:53:15] does not        || TKOS/TPHOT -> TKOPBLT
+[2021-12-27 15:53:20] everywhere      || EFR/W-R -> WEFR, WEFRB
+[2021-12-27 15:53:31] and an          || SKP/APB -> SKPAPB, SKPA*PB
+[2021-12-27 15:54:03] everywhere      || EFR/W-R -> WEFR, WEFRB
+[2021-12-27 15:54:35] what he         || WHA/E -> WHAE
+[2021-12-27 15:54:40] does not        || TKOS/TPHOT -> TKOPBLT
+[2021-12-27 15:55:20] things to       || THEUPBGS/O -> THOEUPBGS
+[2021-12-27 16:00:13] what he can't   || WHAE/KAPBT -> WHAEBGT
+[2021-12-27 16:00:26] works           || WORBG/-S -> WORBGS
+[2021-12-27 16:19:26] she get         || SHE/TKPWET -> SKWHR-GT
+[2021-12-27 16:19:57] she get         || SHE/TKPWET -> SKWHR-GT
+[2021-12-27 16:27:55] we want         || WE/WAPBT -> TWR-P
+[2021-12-27 16:28:37] turn in         || TURPB/TPH -> TPHURPB
+[2021-12-27 16:29:11] turn in         || TURPB/TPH -> TPHURPB
+[2021-12-27 16:29:51] turn in         || TURPB/TPH -> TPHURPB
+[2021-12-27 17:43:08] up and          || UP/SKP -> SKPUP
+[2021-12-27 17:47:21] thence          || -T/EPBS -> THEPBS
+[2021-12-27 17:49:05] and she can     || SKP/SHAOEBG -> SKPHEBG
+[2021-12-27 17:51:40] and she can     || SKP/SHAOEBG -> SKPHEBG
+[2021-12-27 17:52:54] person who      || PERPB/WHO -> PWHOERPB
+[2021-12-27 17:52:56] you the         || U/-T -> KPWR-T
+[2021-12-27 17:53:03] person is       || PERPB/S -> SPERPB
+[2021-12-27 17:53:24] this morning    || TH/PHORPBG -> TH-RPBG
+[2021-12-27 17:55:04] turn in         || TURPB/TPH -> TPHURPB
+[2021-12-27 17:58:09] earlier         || ERL/*ER -> RERL, KWRERL
+[2021-12-27 17:58:49] consist of      || KAO/-F -> KAOF, SKAOF
+[2021-12-27 17:58:53] -efficient      || H-PB/TPEURBT -> TP*EURBT
+[2021-12-27 17:58:56] -based          || H-PB/PWAEUFD -> PWA*EUFD
+[2021-12-27 17:59:20] earlier         || ERL/*ER -> RERL, KWRERL
+[2021-12-27 17:59:37] consist of      || KAO/-F -> KAOF, SKAOF
+[2021-12-27 18:00:08] edition         || AOE/TKEUGS -> TKOEUGS
+[2021-12-27 19:39:35] solitude        || SOL/TAOUD -> SHR*EUTD
+[2021-12-27 19:40:40] they could      || THE/KO -> THEBGD, TWH-BGD
+[2021-12-27 19:40:41] they COULD      || THE/KO/*UPD -> THEBGD, TWH-BGD, THE/KWO
+[2021-12-27 19:40:45] are not         || R/TPHOT -> R-PBLT, STKPWHR-RT
+[2021-12-27 19:40:48] thing is        || THEUPBG/S -> TH*EUPBGS
+[2021-12-27 19:42:08] and was         || SKP/WAS -> SKP-FS
+[2021-12-27 19:42:35] I go            || EU/TKPWO -> TKPWEU
+[2021-12-27 19:42:50] payoff          || PAEU/TK-LS/OF -> PAUF
+[2021-12-27 19:43:05] avoid           || A/SROEUD -> SRAED
+[2021-12-27 19:43:12] with your       || W/KWROUR -> WUR
+[2021-12-27 19:43:35] I go            || EU/TKPWO -> TKPWEU
+[2021-12-27 19:43:52] payoff          || PAEU/TK-LS/OF -> PAUF
+[2021-12-27 19:44:16] with your       || W/KWROUR -> WUR
+[2021-12-27 19:44:54] as it           || AS/T -> TAZ
+[2021-12-27 19:45:05] with your       || W/KWROUR -> WUR
+[2021-12-27 19:45:43] is for          || S/TP-R -> STP-R, STPOR
+[2021-12-27 19:45:51] with your       || W/KWROUR -> WUR
+[2021-12-27 19:46:24] is for          || S/TP-R -> STP-R, STPOR
+[2021-12-27 19:48:15] with your       || W/KWROUR -> WUR
+[2021-12-27 19:49:55] that a          || THA/AEU -> THA*
+[2021-12-27 19:50:01] I mean          || EU/PHAOEPB -> KWR-PL, SWR-PBL
+[2021-12-27 19:50:13] empathy         || EPL/THEU -> THAEP, TH*EUP, THA*EP
+[2021-12-27 19:51:01] that a          || THA/AEU -> THA*
+[2021-12-27 19:51:52] saucer          || SAUS/*ER -> SAUFR
+[2021-12-27 19:53:35] It wasn't       || T/WUPBT -> TWUPBT, TWAEPBT, TWAEPBTS
+[2021-12-27 19:53:40] that you were   || THA/KPWR-RP -> THAURP, STHAURP
+[2021-12-27 19:53:47] really wanna    || R-L/WAPB -> STKPWHR*UP, STKPWHRA*P
+[2021-12-27 19:54:00] It wasn't       || T/WUPBT -> TWUPBT, TWAEPBT, TWAEPBTS
+[2021-12-27 19:55:50] brought up      || PWRAUT/UP -> PWROUP
+[2021-12-27 19:58:14] If a            || TP/AEU -> TPA*EU
+[2021-12-27 19:58:24] or not          || OR/TPHOT -> ORPBT
+[2021-12-27 19:58:33] Ho              || H*P/O* -> HO*, HO*E
+[2021-12-27 19:58:34] He              || H*P/*E -> E, HE, KWHR
+[2021-12-27 19:58:35] to              || T*/O* -> O, TPO
+[2021-12-27 19:58:35] ecto            || *E/KR*/T*/O* -> EBGT/SKWRO
+[2021-12-27 19:58:35] or              || O*/R* -> OR, ORB, O*R, AUR
+[2021-12-27 19:58:35] tor             || T*/O*/R* -> TAUR
+[2021-12-27 19:58:35] Hector          || H*P/*E/KR*/T*/O*/R* -> HEBGT/O*R
+[2021-12-27 19:58:38] a lot of        || HROELT/-F -> HROEFLT, HROEFPLT, HRO*EFLT, PWHROEFLT
+[2021-12-27 19:58:48] arguments       || ARG/*PLTS -> AERPLTS
+[2021-12-27 19:59:14] or not          || OR/TPHOT -> ORPBT
+[2021-12-27 19:59:17] he just         || E/SKWRUFT -> KWHR-PBLG
+[2021-12-27 19:59:18] justified       || SKWRUFT/TPAOEUD -> SKWRUFD, SKWR*UFD
+[2021-12-27 20:05:04] Every night     || EFR/TPHAOEUT -> EFRPBT
+[2021-12-27 20:05:12] you love        || U/HROF -> KPWR-LG
+[2021-12-27 20:05:14] give up         || TKPWEUF/UP -> TKPWUP
+[2021-12-27 20:05:35] Every night     || EFR/TPHAOEUT -> EFRPBT
+[2021-12-27 20:05:42] you love        || U/HROF -> KPWR-LG
+[2021-12-27 20:05:43] give up         || TKPWEUF/UP -> TKPWUP
+[2021-12-27 20:08:14] things to       || THEUPBGS/O -> THOEUPBGS
+[2021-12-27 20:08:54] Frequently      || TPREBGT/HREU -> TPREL, TPRELG, TPREBLG
+[2021-12-27 20:09:05] frequently      || TPRAOEBGT/HREU -> TPREL, TPRELG, TPREBLG
+[2021-12-27 20:09:05] infrequently    || EUPB/TPRAOEBGT/HREU -> TPHRELG
+[2021-12-27 20:09:11] are not         || R/TPHOT -> R-PBLT, STKPWHR-RT
+[2021-12-27 20:09:14] and the other   || SKP-T/OER -> SKPOERT
+[2021-12-27 20:11:45] and the other   || SKP-T/OER -> SKPOERT
+[2021-12-27 20:12:42] and the other   || SKP-T/OER -> SKPOERT
+[2021-12-27 20:14:27] and the other   || SKP-T/OER -> SKPOERT
+[2021-12-27 20:18:50] What on earth   || WHA/OPB/*ERT -> WHAERT
+[2021-12-27 20:18:51] earth is        || *ERT/S -> S*ERT
+[2021-12-27 20:18:52] is going        || S/TKPW-G -> STKPW-G
+[2021-12-27 20:19:42] or not          || OR/TPHOT -> ORPBT
+[2021-12-27 20:21:04] this morning    || TH/PHORPBG -> TH-RPBG
+[2021-12-27 20:21:20] shall be        || SHAL/-B -> SHAB, SH-B
+[2021-12-27 20:21:45] this morning    || TH/PHORPBG -> TH-RPBG
+[2021-12-27 20:22:19] of this         || -F/TH -> TH-F
+[2021-12-27 20:22:53] this morning    || TH/PHORPBG -> TH-RPBG
+[2021-12-27 20:23:29] this morning    || TH/PHORPBG -> TH-RPBG
+[2021-12-27 20:24:36] and remember    || SKP/RER -> SKP-RPL
+[2021-12-27 20:25:09] this of         || TH/-F -> TH-F
+[2021-12-27 20:27:10] at once         || AT/WUPBS -> TWUPBS
+[2021-12-27 20:28:16] come here       || KOPL/HAOER -> KPHAOER
+[2021-12-27 20:28:31] who are         || WHO/STKPWHR-R -> WHO*R
+[2021-12-27 20:28:33] amp             || APL/-P -> AFRP
+[2021-12-27 20:28:35] I've got        || AOEUF/TKPWOT -> AOEUFGT
+[2021-12-27 20:28:42] them to         || THEPL/O -> THOEUPL
+[2021-12-27 20:29:05] come here       || KOPL/HAOER -> KPHAOER
+[2021-12-27 20:29:14] I've got        || AOEUF/TKPWOT -> AOEUFGT
+[2021-12-27 20:30:28] them to         || THEPL/O -> THOEUPL
+[2021-12-27 20:31:49] .I              || -P/KPA*/EU -> *EUPD, *EUPLD
+[2021-12-27 20:32:06] can't get       || KAPBT/TKPWET -> STKPWHROGT
+[2021-12-27 20:32:23] you do          || U/TKO -> TKO*U
+[2021-12-27 20:34:24] I've been       || AOEUF/PW-PB -> AOEUFB
+[2021-12-27 20:34:32] and if          || SKP/TP -> TPAPBD
+[2021-12-27 20:35:39] I've been       || AOEUF/PW-PB -> AOEUFB
+[2021-12-27 20:35:47] and if          || SKP/TP -> TPAPBD
+[2021-12-27 20:35:58] for the         || TP-R/-T -> TP-RT
+[2021-12-27 20:37:41] I've been       || AOEUF/PW-PB -> AOEUFB
+[2021-12-27 20:37:49] and if          || SKP/TP -> TPA*PBD
+[2021-12-27 20:38:03] for the         || TP-R/-T -> TP-RT
+[2021-12-27 20:38:08] But the         || PWU/-T -> PWUT
+[2021-12-27 20:39:58] and if          || SKP/TP -> TPA*PBD
+[2021-12-27 20:40:18] for the         || TP-R/-T -> TP-RT
+[2021-12-27 20:41:16] and if          || SKP/TP -> TPA*PBD
+[2021-12-27 20:41:31] for the         || TP-R/-T -> TP-RT
+[2021-12-27 20:42:29] for the         || TP-R/-T -> TP-RT
+[2021-12-27 20:44:14] .S              || -P/TP-LTZ/-Z -> S*PD, S*PLD
+[2021-12-27 20:44:42] I am not        || SWR-R/TPHOT -> SWR-RT
+[2021-12-27 20:44:51] religion        || RE/HREUGS -> HR-GS
+[2021-12-27 20:45:17] Sa              || S*P/A* -> SA
+[2021-12-27 20:45:17] at              || A*/T* -> AT, ATS
+[2021-12-27 20:45:17] Sat             || S*P/A*/T* -> SA*T, S-RBGS/A*T, SAT
+[2021-12-27 20:45:17] to              || T*/O* -> O, TPO
+[2021-12-27 20:45:18] ata             || A*/T*/A* -> A/TA
+[2021-12-27 20:45:18] Sata            || S*P/A*/T*/A* -> SA/TA
+[2021-12-27 20:45:18] an              || A*/TPH* -> -PB, APB, ARPB, A*PB
+[2021-12-27 20:45:18] tan             || T*/A*/TPH* -> TAPB
+[2021-12-27 20:45:18] Satan           || S*P/A*/T*/A*/TPH* -> SAT/APB, SAEUT/APB, SAEUT/A*PB, SAEUT/TAPB, SA*EUT/A*PB
+[2021-12-27 20:45:26] I am not        || SWR-R/TPHOT -> SWR-RT
+[2021-12-27 20:45:58] Religion        || RE/HRUGS -> HR-GS
+[2021-12-27 20:46:31] I am not        || SWR-R/TPHOT -> SWR-RT
+[2021-12-27 20:47:37] at once         || AT/WUPBS -> TWUPBS
+[2021-12-27 20:47:42] on the          || OPB/-T -> OPBT, O*PBT
+[2021-12-27 20:49:04] addition        || A/TKEUGS -> AGS
+[2021-12-27 20:49:15] for the         || TP-R/-T -> TP-RT
+[2021-12-27 20:50:14] down the        || TKOUPB/-T -> TKOUPBT
+[2021-12-27 20:50:31] then the        || THEPB/-T -> THEPBT
+[2021-12-27 20:50:46] saucer          || SAUS/*ER -> SAUFR
+[2021-12-27 20:51:22] whereupon       || W-R/POPB -> WRUP
+[2021-12-27 20:51:42] don't be        || TKOEPBT/-B -> STKPWHROEB
+[2021-12-27 20:52:48] she said to     || SKWHR-BS/O -> SKWHR-BTS
+[2021-12-27 20:53:36] whereas         || W-R/AS -> W-RZ, WRAS, WRAZ, WH-RS
+[2021-12-27 20:53:40] one of the      || WUPB/-FT -> WUFPBT
+[2021-12-27 20:55:22] purpose of      || PURP/-F -> PUFRPS
+[2021-12-27 20:55:22] of this         || -F/TH -> TH*F
+[2021-12-27 20:55:37] reformed        || RE/TPORPLD -> R-FRPLD
+[2021-12-27 20:56:50] thing to        || THEUPBG/O -> THOEUPG, THOEUPBG
+[2021-12-27 20:58:29] out of          || OUT/-F -> OUF, AOUFT
+[2021-12-27 20:58:32] curiosity       || KAOURS/TEU -> KAOUFRT
+[2021-12-27 20:59:13] so              || S*/O* -> SO, SAO
+[2021-12-27 20:59:14] se              || S*/*E -> SE
+[2021-12-27 20:59:15] em              || *E/PH* -> EPL
+[2021-12-27 20:59:15] me              || PH*/*E -> PHE, PHAOE, PHAO*E, SPHAOE
+[2021-12-27 20:59:16] et              || *E/T* -> ET
+[2021-12-27 20:59:16] met             || PH*/*E/T* -> PHET, PHET/PHET
+[2021-12-27 20:59:16] es              || *E/S* -> ES, S*E
+[2021-12-27 20:59:16] st              || S*/T* -> *FT
+[2021-12-27 20:59:16] est             || *E/S*/T* -> EFT, EFLT, ERBGS/S*T
+[2021-12-27 20:59:18] er              || *E/R* -> *ER, ER
+[2021-12-27 20:59:18] ter             || T*/*E/R* -> TER
+[2021-12-27 20:59:18] ster            || S*/T*/*E/R* -> STER
+[2021-12-27 20:59:18] ester           || *E/S*/T*/*E/R* -> -FRT, ES/TER, EFT/*ER
+[2021-12-27 20:59:18] mester          || PH*/*E/S*/T*/*E/R* -> PHEFT/*ER
+[2021-12-27 20:59:18] semester        || S*/*E/PH*/*E/S*/T*/*E/R* -> SPHEFR, SPHEFT, SPHEFRT, SPH*EFRT, SPHEFRLT, SPHEFRPT, STPHEFRT, SPH*ES/ER, SPHEFT/ER, SPHES/TER, KPHEFT/*ER, SPHEFT/*ER, SPHEFTD/*ER, SE/PHES/TER, SE/PH*ES/ER
+[2021-12-27 21:00:39] worker          || WO*RBG/*ER -> WRORBG
+[2021-12-27 21:00:40] worker          || WORBG/*ER -> WRORBG
+[2021-12-27 21:00:57] Ma              || PH*P/A* -> PHA
+[2021-12-27 21:00:58] as              || A*/S* -> AZ, AS, ASZ
+[2021-12-27 21:00:59] za              || STKPW*/A* -> SA*
+[2021-12-27 21:00:59] aw              || A*/W* -> A*U
+[2021-12-27 21:01:00] at              || A*/T* -> AT, ATS
+[2021-12-27 21:02:26] Ma              || PH*P/A* -> PHA
+[2021-12-27 21:02:26] as              || A*/S* -> AZ, AS, ASZ
+[2021-12-27 21:02:27] za              || STKPW*/A* -> SA*
+[2021-12-27 21:02:28] aw              || A*/W* -> A*U
+[2021-12-27 21:02:28] at              || A*/T* -> AT, ATS
+[2021-12-27 21:02:29] Mazzawati       || PH*P/A*/STKPW*/STKPW*/A*/W*/A*/T*/*EU -> PHAZ/WAET
+[2021-12-27 21:12:19] Thing           || -T/-G -> THEUPG, THEPBG, THEUPBG, THAEUPBG, THAOEUPBG
