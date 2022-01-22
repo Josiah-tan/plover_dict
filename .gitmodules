@@ -10,3 +10,6 @@
 [submodule "emily-modifiers"]
 	path = emily-modifiers
 	url = https://github.com/EPLHREU/emily-modifiers.git
+[submodule "aerick-phrasing"]
+	path = aerick-phrasing
+	url = https://github.com/aerickt/aerick-phrasing
