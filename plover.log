@@ -1076,3 +1076,983 @@ ValueError: unknown key in "[xk]"
 2022-01-11 20:53:32,570 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
 2022-01-11 20:53:32,573 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
 2022-01-11 20:53:33,696 [Dummy-1] INFO: loaded 15 dictionaries in 1.190s
+2022-01-15 20:52:08,003 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 20:52:08,163 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 20:52:08,303 [Dummy-1] INFO: loaded 15 dictionaries in 0.333s
+2022-01-15 20:52:08,506 [Dummy-1] INFO: loaded 15 dictionaries in 0.000s
+2022-01-15 20:52:09,232 [Dummy-1] INFO: loaded 15 dictionaries in 0.000s
+2022-01-15 20:52:09,984 [Dummy-1] INFO: loaded 15 dictionaries in 0.000s
+2022-01-15 20:52:35,573 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 20:52:35,576 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 20:52:35,612 [Dummy-1] INFO: loaded 17 dictionaries in 0.039s
+2022-01-15 20:52:39,114 [Dummy-1] INFO: loaded 17 dictionaries in 0.000s
+2022-01-15 20:52:48,422 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 20:52:49,113 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 20:52:49,131 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 20:52:49,223 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 20:52:49,440 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 20:52:49,663 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 20:52:52,111 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 20:52:54,750 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 20:53:09,952 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:13:19,005 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:13:19,031 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:13:20,807 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:13:20,807 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:13:21,779 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:13:21,791 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:13:21,791 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:13:21,792 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:13:21,799 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:13:21,805 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:13:21,809 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:13:21,820 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:13:21,822 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:13:21,824 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:13:21,827 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:13:21,828 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:13:21,830 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:13:21,830 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:13:21,831 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:13:21,836 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:13:21,843 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:13:21,853 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:13:21,858 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:13:21,859 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:13:23,021 [Dummy-1] INFO: loaded 17 dictionaries in 1.230s
+2022-01-15 21:13:36,743 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:37,135 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:37,223 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:37,723 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:37,832 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:38,001 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:38,142 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:48,432 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:48,566 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:49,112 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:49,426 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:49,532 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:53,168 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:55,208 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:55,403 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:56,740 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:13:56,979 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:01,221 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:14:01,229 [Dummy-1] INFO: loaded 17 dictionaries in 0.007s
+2022-01-15 21:14:06,017 [Dummy-1] INFO: loaded 17 dictionaries in 0.000s
+2022-01-15 21:14:10,289 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:14:10,306 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:14:10,307 [Dummy-1] INFO: loaded 17 dictionaries in 0.000s
+2022-01-15 21:14:20,729 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:26,495 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:14:29,992 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:14:30,001 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:14:30,912 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:14:30,912 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:14:31,153 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:14:31,175 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:14:31,176 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:14:31,176 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:14:31,177 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:14:31,189 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:14:31,197 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:14:31,207 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:14:31,208 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:14:31,209 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:14:31,210 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:14:31,213 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:14:31,214 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:14:31,214 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:14:31,215 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:14:31,217 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:14:31,219 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:14:31,220 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:14:31,222 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:14:31,222 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:14:31,947 [Dummy-1] INFO: loaded 17 dictionaries in 0.771s
+2022-01-15 21:14:33,954 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:34,728 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:46,559 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:46,905 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:47,592 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:47,844 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:48,049 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:48,734 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 206, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 297, in translate_stroke
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 391, in _lookup_with_prefix
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 361, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 232, in lookup
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/steno_dictionary.py", line 198, in _lookup
+  File "/home/josiah/.config/plover/plugins/linux/lib/python3.9/site-packages/plover_python_dictionary.py", line 56, in get
+    return self._lookup(key)
+  File "<string>", line 133, in lookup
+  File "/home/josiah/.dotfiles/plover/.config/plover/vim/command_letter/builtins.py", line 35, in __call__
+    assert len(chord) <= LONGEST_KEY
+AssertionError
+2022-01-15 21:14:56,818 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:15:01,269 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:15:01,280 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:15:02,254 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:15:02,258 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:15:02,593 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:15:02,625 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:15:02,626 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:15:02,626 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:15:02,632 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:15:02,634 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:15:02,636 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:15:02,644 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:15:02,648 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:15:02,655 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:15:02,657 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:15:02,657 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:15:02,659 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:15:02,661 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:15:02,661 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:15:02,678 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:15:02,681 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:15:02,684 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:15:02,692 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:15:02,693 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:15:03,550 [Dummy-1] INFO: loaded 17 dictionaries in 0.924s
+2022-01-15 21:15:58,523 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:16:01,953 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:16:01,963 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:16:02,891 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:16:02,891 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:16:03,173 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:16:03,212 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:16:03,217 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:16:03,227 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:16:03,228 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:16:03,245 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:16:03,249 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:16:03,252 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:16:03,254 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:16:03,256 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:16:03,260 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:16:03,260 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:16:03,262 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:16:03,263 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:16:03,264 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:16:03,265 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:16:03,296 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:16:03,307 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:16:03,311 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:16:03,323 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:16:03,932 [Dummy-1] INFO: loaded 17 dictionaries in 0.705s
+2022-01-15 21:19:43,784 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:19:48,608 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:19:48,621 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:19:49,565 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:19:49,566 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:19:49,839 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:19:49,848 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:19:49,856 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:19:49,859 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:19:49,862 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:19:49,863 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:19:49,865 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:19:49,881 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:19:49,882 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:19:49,884 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:19:49,885 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:19:49,887 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:19:49,890 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:19:49,891 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:19:49,897 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:19:49,914 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:19:49,917 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:19:49,918 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:19:49,920 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:19:49,920 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:19:50,657 [Dummy-1] INFO: loaded 17 dictionaries in 0.798s
+2022-01-15 21:28:24,673 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:28:30,724 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:28:30,738 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:28:31,698 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:28:31,698 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:28:31,958 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:28:31,978 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:28:31,979 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:28:31,980 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:28:31,981 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:28:31,990 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:28:32,011 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:28:32,015 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:28:32,030 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:28:32,045 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:28:32,049 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:28:32,054 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:28:32,054 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:28:32,055 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:28:32,056 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:28:32,056 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:28:32,062 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:28:32,063 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:28:32,065 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:28:32,065 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:28:32,613 [Dummy-1] INFO: loaded 17 dictionaries in 0.633s
+2022-01-15 21:30:32,230 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:30:35,726 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:30:35,737 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:30:36,674 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:30:36,683 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:30:36,895 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:30:36,911 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:30:36,912 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:30:36,912 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:30:36,914 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:30:36,934 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:30:36,936 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:30:36,959 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:30:36,971 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:30:36,972 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:30:36,975 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:30:36,980 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:30:36,981 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:30:36,982 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:30:36,983 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:30:36,987 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:30:36,998 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:30:37,000 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:30:37,004 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:30:37,006 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:30:38,183 [Dummy-1] INFO: loaded 17 dictionaries in 1.271s
+2022-01-15 21:37:09,371 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:37:12,606 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:37:12,623 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:37:13,561 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:37:13,561 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:37:13,819 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:37:13,828 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:37:13,840 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:37:13,841 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:37:13,852 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:37:13,856 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:37:13,859 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:37:13,862 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:37:13,863 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:37:13,868 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:37:13,870 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:37:13,871 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:37:13,873 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:37:13,877 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:37:13,881 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:37:13,894 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:37:13,897 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:37:13,900 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:37:13,906 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:37:13,907 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:37:14,399 [Dummy-1] INFO: loaded 17 dictionaries in 0.558s
+2022-01-15 21:46:35,616 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:46:40,589 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:46:40,603 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:46:41,625 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:46:41,626 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:46:42,577 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:46:42,586 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:46:42,587 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:46:42,588 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:46:42,592 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:46:42,594 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:46:42,599 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:46:42,600 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:46:42,600 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:46:42,601 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:46:42,602 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:46:42,603 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:46:42,603 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:46:42,603 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:46:42,609 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:46:42,614 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:46:42,619 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:46:42,621 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:46:42,622 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:46:42,623 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:46:43,388 [Dummy-1] INFO: loaded 17 dictionaries in 0.800s
+2022-01-15 21:48:33,242 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 21:48:36,730 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 21:48:36,741 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 21:48:37,683 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 21:48:37,683 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 21:48:37,934 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 21:48:37,943 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 21:48:37,945 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 21:48:37,946 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 21:48:37,950 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 21:48:37,951 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 21:48:37,975 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 21:48:37,981 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 21:48:37,982 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 21:48:37,985 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 21:48:37,986 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 21:48:38,001 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 21:48:38,003 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 21:48:38,004 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 21:48:38,005 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 21:48:38,010 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 21:48:38,014 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 21:48:38,015 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 21:48:38,020 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 21:48:38,021 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 21:48:38,597 [Dummy-1] INFO: loaded 17 dictionaries in 0.651s
+2022-01-15 22:06:25,665 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 22:06:28,867 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 22:06:28,878 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 22:06:29,815 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 22:06:29,816 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 22:06:30,073 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 22:06:30,081 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 22:06:30,088 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 22:06:30,094 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 22:06:30,105 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 22:06:30,116 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 22:06:30,121 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 22:06:30,122 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 22:06:30,132 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 22:06:30,135 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 22:06:30,143 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 22:06:30,147 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 22:06:30,148 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 22:06:30,148 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 22:06:30,149 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 22:06:30,152 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 22:06:30,155 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 22:06:30,156 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 22:06:30,157 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 22:06:30,157 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 22:06:31,053 [Dummy-1] INFO: loaded 17 dictionaries in 0.959s
+2022-01-15 22:09:33,746 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-15 22:09:39,222 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-15 22:09:39,239 [MainThread] INFO: 48 custom mappings(s)
+2022-01-15 22:09:40,217 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-15 22:09:40,218 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-15 22:09:40,430 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-15 22:09:40,442 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-15 22:09:40,443 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-15 22:09:40,444 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-15 22:09:40,444 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-15 22:09:40,448 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-15 22:09:40,465 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-15 22:09:40,473 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-15 22:09:40,477 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-15 22:09:40,481 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-15 22:09:40,498 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-15 22:09:40,516 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-15 22:09:40,524 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-15 22:09:40,525 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-15 22:09:40,525 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-15 22:09:40,529 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-15 22:09:40,531 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-15 22:09:40,535 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-15 22:09:40,540 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-15 22:09:40,546 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-15 22:09:41,454 [Dummy-1] INFO: loaded 17 dictionaries in 1.010s
+2022-01-15 22:09:47,052 [Dummy-1] INFO: loaded 17 dictionaries in 0.000s
+2022-01-15 22:09:48,056 [Dummy-1] INFO: loaded 17 dictionaries in 0.001s
+2022-01-18 17:22:29,289 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-18 17:22:29,424 [MainThread] INFO: 48 custom mappings(s)
+2022-01-18 17:22:31,085 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-18 17:22:31,090 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-18 17:22:32,011 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-18 17:22:32,023 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-18 17:22:32,026 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-18 17:22:32,029 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-18 17:22:32,032 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-18 17:22:32,040 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-18 17:22:32,042 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-18 17:22:32,044 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-18 17:22:32,046 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-18 17:22:32,047 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-18 17:22:32,051 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-18 17:22:32,055 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-18 17:22:32,056 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-18 17:22:32,060 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-18 17:22:32,062 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-18 17:22:32,065 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-18 17:22:32,071 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-18 17:22:32,073 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-18 17:22:32,077 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-18 17:22:32,079 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-18 17:22:33,406 [Dummy-1] INFO: loaded 17 dictionaries in 1.377s
+2022-01-18 17:22:39,127 [Dummy-1] INFO: loaded 17 dictionaries in 0.001s
+2022-01-18 17:22:41,837 [Dummy-1] INFO: loaded 17 dictionaries in 0.000s
+2022-01-18 17:22:55,455 [Dummy-1] INFO: loaded 17 dictionaries in 0.000s
+2022-01-18 18:26:08,767 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-18 18:26:08,768 [Dummy-1] INFO: loaded 17 dictionaries in 0.001s
+2022-01-18 18:26:53,276 [Dummy-1] INFO: loaded 17 dictionaries in 0.000s
+2022-01-18 18:29:48,569 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-18 18:29:48,572 [Dummy-1] INFO: loaded 17 dictionaries in 0.004s
+2022-01-18 18:29:57,157 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 147, in run
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 383, in _on_stroked
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 207, in translate
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 263, in flush
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/translation.py", line 268, in _output
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/formatting.py", line 449, in format
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/formatting.py", line 565, in render
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/engine.py", line 406, in _send_key_combination
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/oslayer/xkeyboardcontrol.py", line 1287, in send_key_combination
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/key_combo.py", line 177, in parse_key_combo
+  File "/home/runner/work/plover/plover/build/appimage/plover.AppDir/usr/lib/python3.9/site-packages/plover/key_combo.py", line 157, in _raise_error
+ValueError: unknown key in "control(j) shift(colon) w [enter]"
+2022-01-18 18:31:32,011 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-18 18:31:32,012 [Dummy-1] INFO: loaded 17 dictionaries in 0.002s
+2022-01-18 20:21:23,661 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-18 20:21:23,681 [Dummy-1] INFO: loaded 17 dictionaries in 0.021s
+2022-01-18 20:51:29,833 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-18 20:51:29,873 [Dummy-1] INFO: loaded 17 dictionaries in 0.040s
+2022-01-18 20:53:17,966 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-18 20:53:17,986 [Dummy-1] INFO: loaded 17 dictionaries in 0.020s
+2022-01-21 14:33:08,380 [Dummy-1] INFO: stopping `plover_clippy` extension
+2022-01-21 14:42:31,641 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-21 14:42:31,662 [MainThread] INFO: 48 custom mappings(s)
+2022-01-21 14:42:32,727 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-21 14:42:32,727 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-21 14:42:33,595 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-21 14:42:33,619 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-21 14:42:33,620 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-21 14:42:33,621 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-21 14:42:33,630 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-21 14:42:33,630 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-21 14:42:33,633 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-21 14:42:33,634 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-21 14:42:33,634 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-21 14:42:33,637 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-21 14:42:33,639 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-21 14:42:33,640 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-21 14:42:33,641 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-21 14:42:33,643 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-21 14:42:33,644 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-21 14:42:33,645 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-21 14:42:33,650 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-21 14:42:33,652 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-21 14:42:33,657 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-21 14:42:33,660 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-21 14:42:34,780 [Dummy-1] INFO: loaded 17 dictionaries in 1.159s
+2022-01-21 19:41:03,199 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-01-21 19:41:03,248 [MainThread] INFO: 48 custom mappings(s)
+2022-01-21 19:41:03,989 [Dummy-1] INFO: set_stroke_filename(/home/josiah/.dotfiles/plover/.config/plover/strokes.log)
+2022-01-21 19:41:03,989 [Dummy-1] INFO: loading system: English Stenotype
+2022-01-21 19:41:04,470 [Dummy-1] INFO: setting machine: Keyboard
+2022-01-21 19:41:04,515 [Dummy-1] INFO: XInput devices: 6, 8
+2022-01-21 19:41:04,521 [Dummy-1] INFO: starting `plover_clippy` extension
+2022-01-21 19:41:04,522 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/simple.py
+2022-01-21 19:41:04,539 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/josiah/customised.py
+2022-01-21 19:41:04,555 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/customised.py
+2022-01-21 19:41:04,565 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_object/simple.py
+2022-01-21 19:41:04,590 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/customised.py
+2022-01-21 19:41:04,592 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/command_letter/simple.py
+2022-01-21 19:41:04,602 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/customised.py
+2022-01-21 19:41:04,609 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/easy_motion/simple.py
+2022-01-21 19:41:04,625 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/templates/relative_number/simple.py
+2022-01-21 19:41:04,632 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/vim/manual_input.json
+2022-01-21 19:41:04,641 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/user.json
+2022-01-21 19:41:04,648 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-modifiers/emily-modifiers.py
+2022-01-21 19:41:04,648 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/emily-symbols/emily-symbols.py
+2022-01-21 19:41:04,664 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/single_stroke_commands_v1.json
+2022-01-21 19:41:04,671 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/commands.json
+2022-01-21 19:41:04,678 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/plover_phrasing/phrs.json
+2022-01-21 19:41:04,708 [Dummy-1] INFO: loading dictionary: /home/josiah/.dotfiles/plover/.config/plover/main.json
+2022-01-21 19:41:05,618 [Dummy-1] INFO: loaded 17 dictionaries in 1.096s
