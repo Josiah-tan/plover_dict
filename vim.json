@@ -1,0 +1,16 @@
+{
+"15*6": "{#control(j) shift(colon) w a return}",
+"1*6": "{#control(j) shift(colon) w return}",
+"15*6D": "{#control(j) shift(colon) w a shift(exclam) return}",
+"1*6D": "{#control(j) shift(colon) w shift(exclam) return}",
+"15*6BG": "{#control(j) shift(colon) w a q return}",
+"1*6BG": "{#control(j) shift(colon) w q return}",
+"15*6BGD": "{#control(j) shift(colon) w a q shift(exclam) return}",
+"1*6BGD": "{#control(j) shift(colon) w q shift(exclam) return}",
+"2KW*EU78": "{#control(j) space u v}",
+"2K3R5*78": "{#control(j) space u u}",
+"23W4R*8G": "{#control(j) space t m}",
+"34R0*6789": "{#control(j) space p v}",
+"34R06789": "{#control(j) space p s}",
+"PHROFBG": "{#escape space p p}"
+}

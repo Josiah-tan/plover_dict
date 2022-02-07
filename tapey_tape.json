@@ -1,0 +1,7 @@
+{
+		"bar_alignment": "left",
+    "bar_character": "*",
+    "bar_time_unit": 0.1,
+    "bar_max_width": 4,
+    "line_format": "%b %S %r → %D, %s"
+}
