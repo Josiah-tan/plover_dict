@@ -13,3 +13,6 @@
 [submodule "aerick-phrasing"]
 	path = aerick-phrasing
 	url = https://github.com/aerickt/aerick-phrasing
+[submodule "plover-inversion"]
+	path = plover-inversion
+	url = https://github.com/morinted/plover-inversion.git
