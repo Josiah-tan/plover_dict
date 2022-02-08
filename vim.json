@@ -18,5 +18,17 @@
 "34R06789": "{#control(j) space p s}",
 "PHROFBG": "{#escape space p p}",
 "2350*EU68S": "{#control(j) space f f}",
-"KW*7B8G9S": "{#control(j) space q p}"
+"KW*7B8G9S": "{#control(j) space q p}",
+"2K3W*9S": "{#control(j) shift(colon) shift(g) return}",
+"2K3W*7S": "{#control(j) space g p}",
+"2K3W*78": "{#control(j) space g l}",
+"K345*7": "{#control(j) space k m}",
+"K30*ERG": "{#control(j) space o c}",
+"1KWR0*ERG": "{#control(j) space o a}",
+"2KR50*E8G": "{#control(j) space u t}",
+"34R5*EU8G": "{#control(j) space p t}",
+"2K3WR*6": "{#control(j) space l g}",
+"KR*U6Z": "{#control(j) space f z}",
+"2K3WR*6R": "{#control(j) space l s}",
+"2350*EU6R": "{#control(j) space f s}"
 }
