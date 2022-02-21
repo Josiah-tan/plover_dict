@@ -1,0 +1,3 @@
+plover-python-dictionary
+plover-plugins-manager
+plover-clippy-2
