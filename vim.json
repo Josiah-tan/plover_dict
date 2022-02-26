@@ -14,6 +14,7 @@
 "34*E7B8G": "{#control(j) shift(colon) m e s s a g e return}",
 "#R*EG": "{#control(j) shift(colon) r e g return}",
 "1*UBS": "{#control(j) shift(colon) s slash}",
+"12K3W*UBS": "{#control(j) shift(colon) shift(percent) s slash}",
 "234*U": "{#control(j) shift(colon) n e w return}",
 "2K34*EG9": "{#control(j) shift(colon) c n e x t return}",
 "K3R50*E6": "{#control(j) shift(colon) c p r e v return}",
