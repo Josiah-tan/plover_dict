@@ -32,6 +32,7 @@
 "2K3W*7S": "{#control(j) space g p}",
 "2K3W*78": "{#control(j) space g l}",
 "K345*7": "{#control(j) space k m}",
+"2K3WR0*E9D": "{#escape space o apostrophe}",
 "2K3WR0*6D": "{#escape space o i h}",
 "2K3WR0*ED": "{#control(j) space o i s}",
 "2K3WR0*EU7B": "{#control(j) space o i d}",
@@ -62,6 +63,7 @@
 "2K*789": "{#control(j) space d d}",
 "2K*67S": "{#control(j) space w d}",
 "134R*BGS": "{#control(j) space c a}",
+"134R0*6R": "{#control(j) space shift(k)}",
 "134R*6GS": "{#control(j) space g d}",
 "134R*6R7BSZ": "{#control(j) space g r}",
 "134R*EU6R7GS": "{#control(j) space g i}",
@@ -87,5 +89,6 @@
 "K345*": "{#control(j) space m a}{^}",
 "K34*SZ": "{#control(j) space m c}{^}",
 "K34*D": "{#control(j) space m d}{^}",
-"-PLTZ": "{#super}"
+"-PLTZ": "{#super}",
+"24R5*R7B": "{#control(j) space r l}"
 }
