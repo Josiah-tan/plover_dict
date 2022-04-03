@@ -93,5 +93,9 @@
 "K34*SZ": "{#control(j) space m c}{^}",
 "K34*D": "{#control(j) space m d}{^}",
 "-PLTZ": "{#super}",
-"24R5*R7B": "{#control(j) space r l}"
+"24R5*R7B": "{#control(j) space r l}",
+"2KW50*E7BSZ": "{#control(j) space a c}",
+"2KW50*ER7B": "{#control(j) space a r}",
+"2KW50*E7B8D": "{#control(j) space a u}",
+"1K50*U9": "{#control(j) space space x} "
 }
