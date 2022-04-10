@@ -16,6 +16,7 @@
 "1*UBS": "{#control(j) shift(colon) s slash}",
 "12K3W*UBS": "{#control(j) shift(colon) shift(percent) s slash}",
 "234*U": "{#control(j) shift(colon) n e w return}",
+"2K0*": "{#control(j) shift(colon) c d o}",
 "2K34*EG9": "{#control(j) shift(colon) c n e x t return}",
 "K3R50*E6": "{#control(j) shift(colon) c p r e v return}",
 "K4*RB9": "{#control(j) space c h}",
@@ -49,9 +50,9 @@
 "2KR50*E8G": "{#control(j) space u t}",
 "245*G": "{#control(j) space h t}",
 "34R5*EU8G": "{#control(j) space p t}",
-"2K3WR*6": "{#control(j) space l g}",
-"12K3WR*": "{#control(j) space s g}",
-"KR*U6Z": "{#control(j) space f z}",
+"2K3WR*6": "{#control(j) space l g}{^}",
+"12K3WR*": "{#control(j) space s g}{^}",
+"KR*U6Z": "{#control(j) space f z}{^}",
 "2K3WR*6R": "{#control(j) space l s}{^}",
 "2350*EU6R": "{#control(j) space f s}{^}",
 "2K3W*6R7BS": "{#control(j) space g b}",
@@ -97,5 +98,6 @@
 "2KW50*E7BSZ": "{#control(j) space a c}",
 "2KW50*ER7B": "{#control(j) space a r}",
 "2KW50*E7B8D": "{#control(j) space a u}",
-"1K50*U9": "{#control(j) space space x} "
+"1K50*U9": "{#control(j) space space x} ",
+"K3WR0*URS": "{#control(j) space s v}"
 }
