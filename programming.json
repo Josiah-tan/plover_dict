@@ -10,10 +10,5 @@
 "AD/TAOEUS": "advertise",
 "EFBG": "esc",
 "PAO*EUFPB": "python",
-"HRAEF": "elif",
-"SKWHO*LZ": "{#End return}{^} * {}{-|}",
-"SKWHO*LSZ": "{#End return}{^} ** {}{-|}",
-"SKWHO*LTD": "{#End return}{^} *** {}{-|}",
-"SKWHO*LTSD": "{#End return}{^} **** {}{-|}",
-"SKWHO*LTSDZ": "{#End return}{^} **** {}{-|}"
+"HRAEF": "elif"
 }
